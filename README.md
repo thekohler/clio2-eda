@@ -1,3 +1,5 @@
+Michael Kohler
+
 # Exploratory data analysis assignment
 
 For this assignment you should follow these steps.
