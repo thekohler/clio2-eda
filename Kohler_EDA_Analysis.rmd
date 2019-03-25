@@ -7,24 +7,46 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+
+x1850_race_slavery = read.csv("eda_data/1850_population_race_slavery.csv")
+x1860_race_slavery = read.csv("eda_data/1860_race_slavery.csv")
+x1860_total_population = read.csv("eda_data/1860_total_population.csv")
+x1870_race = read.csv("eda_data/1870_county_race.csv")
+x1870_total_population = read.csv("eda_data/1870_total_population.csv")
+popdata1860 = merge(x1860_race_slavery, x1860_total_population)
+popdata1870 = merge(x1870_race, x1870_total_population)
+popdata1 = merge(x1850_race_slavery, popdata1860, all=TRUE)
+popdata = merge(popdata1, popdata1870, all=TRUE)
 ```
 
 ## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+So for this project I used NHGIS census data from 1850, 1860, and 1870, focusing on total population, race breakdown, and slavery status.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-popdata = merge(popdata1850, popdata1860, popdata1870, all=TRUE)
+I don't know if what I did this week even counts as fulfilling the assignment, but I know I beat my head into the wall for a long time and feel like I learned a lot....
+
+I had to redo the entire project a couple times when I realized I had set up my .csv's in stupid ways, including doing dumb stuff like leaving the labels for various columns as they are in the census. Though, looking back, I wonder if I could have just fixed it all within R by mutating columns into new, relabled columns. Still, it was good practice on dealing with different github versions as I kept uploading new versions of the .csvs.
+
+And it took me WAY longer than it should have to figure out how to get all 5 .csv's into one data set. But I did it, dammit.
+
+Obviously in retrospect just looking at a few numbers over 3 censuses is pretty limited, particularly as I was mostly interested in Fairfax County (dissertation related). But hey, as I said, I'm feeling pretty accomplished that I even managed to get this stuff together for later analysis. Though, of course, most of this work would have been unnecessary if I had just figured out how to get the NHGIS stuff to download as one .csv in the first place... *eyeroll* 
+
+```{r race}
+popdata_VA <- popdata %>% 
+  filter(STATE == "Virginia", COUNTY == "Fairfax") %>% 
+  rowwise %>% 
+  mutate(total_black = (sum(total_free_black, total_slave, na.rm = TRUE)))
+  
+
 ```
-
 ## Including Plots
 
-You can also embed plots, for example:
+Quick and dirty line chart of the data:
 
 ```{r pressure, echo=FALSE}
-plot(pressure)
+ggplot(popdata_ffx, aes(x= YEAR, y= total_black)) + geom_line() + labs(title = "Fairfax County Black Population During the Civil War Period", x = "Year", y = "Total Black Population")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
