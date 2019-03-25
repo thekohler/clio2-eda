@@ -7,6 +7,17 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+
+x1850_race_slavery = read.csv("eda_data/1850_population_race_slavery.csv")
+x1860_race_slavery = read.csv("eda_data/1860_race_slavery.csv")
+x1860_total_population = read.csv("eda_data/1860_total_population.csv")
+x1870_race = read.csv("eda_data/1870_county_race.csv")
+x1870_total_population = read.csv("eda_data/1870_total_population.csv")
+popdata1860 = merge(x1860_race_slavery, x1860_total_population)
+popdata1870 = merge(x1870_race, x1870_total_population)
+popdata1 = merge(x1850_race_slavery, popdata1860, all=TRUE)
+popdata = merge(popdata1, popdata1870, all=TRUE)
 ```
 
 ## R Markdown
@@ -15,16 +26,20 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-popdata = merge(popdata1850, popdata1860, popdata1870, all=TRUE)
-```
+```{r race}
+popdata_VA <- popdata %>% 
+  filter(STATE == "Virginia", COUNTY == "Fairfax") %>% 
+  rowwise %>% 
+  mutate(total_black = (sum(total_free_black, total_slave, na.rm = TRUE)))
+  
 
+```
 ## Including Plots
 
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-plot(pressure)
+ggplot(popdata_ffx, aes(x= YEAR, y= total_black)) + geom_line()
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
