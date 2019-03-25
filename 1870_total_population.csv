@@ -1,0 +1,2316 @@
+YEAR,STATE,COUNTY,total_population
+1870,Alabama,Autauga,11623
+1870,Alabama,Baker,6194
+1870,Alabama,Baldwin,6004
+1870,Alabama,Barbour,29309
+1870,Alabama,Bibb,7469
+1870,Alabama,Blount,9945
+1870,Alabama,Bullock,24474
+1870,Alabama,Butler,14981
+1870,Alabama,Calhoun,13980
+1870,Alabama,Chambers,17562
+1870,Alabama,Cherokee,11132
+1870,Alabama,Choctaw,12676
+1870,Alabama,Clarke,14663
+1870,Alabama,Clay,9560
+1870,Alabama,Cleburne,8017
+1870,Alabama,Coffee,6171
+1870,Alabama,Colbert,12537
+1870,Alabama,Conecuh,9574
+1870,Alabama,Coosa,11945
+1870,Alabama,Covington,4868
+1870,Alabama,Crenshaw,11156
+1870,Alabama,Dale,11325
+1870,Alabama,Dallas,40705
+1870,Alabama,DeKalb,7126
+1870,Alabama,Elmore,14477
+1870,Alabama,Escambia,4041
+1870,Alabama,Etowah,10109
+1870,Alabama,Fayette,7136
+1870,Alabama,Franklin,8006
+1870,Alabama,Geneva,2959
+1870,Alabama,Greene,18399
+1870,Alabama,Hale,21792
+1870,Alabama,Henry,14191
+1870,Alabama,Jackson,19410
+1870,Alabama,Jefferson,12345
+1870,Alabama,Lauderdale,15091
+1870,Alabama,Lawrence,16658
+1870,Alabama,Lee,21750
+1870,Alabama,Limestone,15017
+1870,Alabama,Lowndes,25719
+1870,Alabama,Macon,17727
+1870,Alabama,Madison,31267
+1870,Alabama,Marengo,26151
+1870,Alabama,Marion,6059
+1870,Alabama,Marshall,9871
+1870,Alabama,Mobile,49311
+1870,Alabama,Monroe,14214
+1870,Alabama,Montgomery,43704
+1870,Alabama,Morgan,12187
+1870,Alabama,Perry,24975
+1870,Alabama,Pickens,17690
+1870,Alabama,Pike,17423
+1870,Alabama,Randolph,12006
+1870,Alabama,Russell,21636
+1870,Alabama,St Clair,9360
+1870,Alabama,Sanford,8893
+1870,Alabama,Shelby,12218
+1870,Alabama,Sumter,24109
+1870,Alabama,Talladega,18064
+1870,Alabama,Tallapoosa,16963
+1870,Alabama,Tuscaloosa,20081
+1870,Alabama,Walker,6543
+1870,Alabama,Washington,3912
+1870,Alabama,Wilcox,28377
+1870,Alabama,Winston,4155
+1870,Arizona Territory,Mohave,179
+1870,Arizona Territory,Pah-Ute,
+1870,Arizona Territory,Pima,5716
+1870,Arizona Territory,Yavapai,2142
+1870,Arizona Territory,Yuma,1621
+1870,Arkansas,Arkansas,8268
+1870,Arkansas,Ashley,8042
+1870,Arkansas,Benton,13831
+1870,Arkansas,Boone,7032
+1870,Arkansas,Bradley,8646
+1870,Arkansas,Calhoun,3853
+1870,Arkansas,Carroll,5780
+1870,Arkansas,Chicot,7214
+1870,Arkansas,Clark,11953
+1870,Arkansas,Columbia,11397
+1870,Arkansas,Conway,8112
+1870,Arkansas,Craighead,4577
+1870,Arkansas,Crawford,8957
+1870,Arkansas,Crittenden,3831
+1870,Arkansas,Cross,3915
+1870,Arkansas,Dallas,5707
+1870,Arkansas,Desha,6125
+1870,Arkansas,Drew,9960
+1870,Arkansas,Franklin,9627
+1870,Arkansas,Fulton,4843
+1870,Arkansas,Grant,3943
+1870,Arkansas,Greene,7573
+1870,Arkansas,Hempstead,13768
+1870,Arkansas,Hot Spring,5877
+1870,Arkansas,Independence,14566
+1870,Arkansas,Izard,6806
+1870,Arkansas,Jackson,7268
+1870,Arkansas,Jefferson,15733
+1870,Arkansas,Johnson,9152
+1870,Arkansas,Lafayette,9139
+1870,Arkansas,Lawrence,5981
+1870,Arkansas,Little River,3236
+1870,Arkansas,Madison,8231
+1870,Arkansas,Marion,3979
+1870,Arkansas,Mississippi,3633
+1870,Arkansas,Monroe,8336
+1870,Arkansas,Montgomery,2984
+1870,Arkansas,Newton,4374
+1870,Arkansas,Ouachita,12975
+1870,Arkansas,Perry,2685
+1870,Arkansas,Phillips,15372
+1870,Arkansas,Pike,3788
+1870,Arkansas,Poinsett,1720
+1870,Arkansas,Polk,3376
+1870,Arkansas,Pope,8386
+1870,Arkansas,Prairie,5604
+1870,Arkansas,Pulaski,32066
+1870,Arkansas,Randolph,7466
+1870,Arkansas,St Francis,6714
+1870,Arkansas,Saline,3911
+1870,Arkansas,Scott,7483
+1870,Arkansas,Searcy,5614
+1870,Arkansas,Sebastian,12940
+1870,Arkansas,Sevier,4492
+1870,Arkansas,Sharp,5400
+1870,Arkansas,Union,10571
+1870,Arkansas,Van Buren,5107
+1870,Arkansas,Washington,17266
+1870,Arkansas,White,10347
+1870,Arkansas,Woodruff,6891
+1870,Arkansas,Yell,8048
+1870,California,Alameda,24237
+1870,California,Alpine,685
+1870,California,Amador,9582
+1870,California,Butte,11403
+1870,California,Calaveras,8895
+1870,California,Colusa,6165
+1870,California,Contra Costa,8461
+1870,California,Del Norte,2022
+1870,California,El Dorado,10309
+1870,California,Fresno,6336
+1870,California,Humboldt,6140
+1870,California,Inyo,1956
+1870,California,Kern,2925
+1870,California,Klamath,1686
+1870,California,Lake,2969
+1870,California,Lassen,1327
+1870,California,Los Angeles,15309
+1870,California,Marin,6903
+1870,California,Mariposa,4572
+1870,California,Mendocino,7545
+1870,California,Merced,2807
+1870,California,Mono,430
+1870,California,Monterey,9876
+1870,California,Napa,7163
+1870,California,Nevada,19134
+1870,California,Placer,11357
+1870,California,Plumas,4489
+1870,California,Sacramento,26830
+1870,California,San Bernardino,3988
+1870,California,San Diego,4951
+1870,California,San Francisco,149473
+1870,California,San Joaquin,21050
+1870,California,San Luis Obispo,4772
+1870,California,San Mateo,6635
+1870,California,Santa Barbara,7784
+1870,California,Santa Clara,26246
+1870,California,Santa Cruz,8743
+1870,California,Shasta,4173
+1870,California,Sierra,5619
+1870,California,Siskiyou,6848
+1870,California,Solano,16871
+1870,California,Sonoma,19819
+1870,California,Stanislaus,6499
+1870,California,Sutter,5030
+1870,California,Tehama,3587
+1870,California,Trinity,3213
+1870,California,Tulare,4533
+1870,California,Tuolumne,8150
+1870,California,Yolo,9899
+1870,California,Yuba,10851
+1870,Colorado Territory,Arapahoe,6829
+1870,Colorado Territory,Bent,592
+1870,Colorado Territory,Boulder,1939
+1870,Colorado Territory,Clear Creek,1596
+1870,Colorado Territory,Conejos,2504
+1870,Colorado Territory,Costilla,1779
+1870,Colorado Territory,Douglas,1388
+1870,Colorado Territory,El Paso,987
+1870,Colorado Territory,Fremont,1064
+1870,Colorado Territory,Gilpin,5490
+1870,Colorado Territory,Greenwood,510
+1870,Colorado Territory,Huerfano,2250
+1870,Colorado Territory,Jefferson,2390
+1870,Colorado Territory,Lake,522
+1870,Colorado Territory,Larimer,838
+1870,Colorado Territory,Las Animas,4276
+1870,Colorado Territory,Park,447
+1870,Colorado Territory,Pueblo,2265
+1870,Colorado Territory,Saguache,304
+1870,Colorado Territory,Summit,258
+1870,Colorado Territory,Weld,1636
+1870,Connecticut,Fairfield,95276
+1870,Connecticut,Hartford,109007
+1870,Connecticut,Litchfield,48727
+1870,Connecticut,Middlesex,36099
+1870,Connecticut,New Haven,121257
+1870,Connecticut,New London,66570
+1870,Connecticut,Tolland,22000
+1870,Connecticut,Windham,38518
+1870,Dakota Territory,Bon Homme,608
+1870,Dakota Territory,Brookings,163
+1870,Dakota Territory,Buffalo,246
+1870,Dakota Territory,Charles Mix,152
+1870,Dakota Territory,Clay,2621
+1870,Dakota Territory,Deuel,37
+1870,Dakota Territory,Hutchinson,37
+1870,Dakota Territory,Jayne,5
+1870,Dakota Territory,Lincoln,712
+1870,Dakota Territory,Minnehaha,355
+1870,Dakota Territory,Pembina,1213
+1870,Dakota Territory,Todd,337
+1870,Dakota Territory,Union,3507
+1870,Dakota Territory,Unorganized Territory,2091
+1870,Dakota Territory,Yankton,2097
+1870,Delaware,Kent,29804
+1870,Delaware,New Castle,63515
+1870,Delaware,Sussex,31696
+1870,District Of Columbia,District Of Columbia,131700
+1870,Florida,Alachua,17328
+1870,Florida,Baker,1325
+1870,Florida,Bradford,3671
+1870,Florida,Brevard,1216
+1870,Florida,Calhoun,998
+1870,Florida,Clay,2098
+1870,Florida,Columbia,7335
+1870,Florida,Dade,85
+1870,Florida,Duval,11921
+1870,Florida,Escambia,7817
+1870,Florida,Franklin,1256
+1870,Florida,Gadsden,9802
+1870,Florida,Hamilton,5749
+1870,Florida,Hernando,2938
+1870,Florida,Hillsborough,3216
+1870,Florida,Holmes,1572
+1870,Florida,Jackson,9528
+1870,Florida,Jefferson,13398
+1870,Florida,Lafayette,1783
+1870,Florida,Leon,15236
+1870,Florida,Levy,2018
+1870,Florida,Liberty,1050
+1870,Florida,Madison,11121
+1870,Florida,Manatee,1931
+1870,Florida,Marion,10804
+1870,Florida,Monroe,5657
+1870,Florida,Nassau,4247
+1870,Florida,Orange,2195
+1870,Florida,Polk,3169
+1870,Florida,Putnam,3821
+1870,Florida,St Johns,2618
+1870,Florida,Santa Rosa,3312
+1870,Florida,Sumter,2952
+1870,Florida,Suwannee,3556
+1870,Florida,Taylor,1453
+1870,Florida,Volusia,1723
+1870,Florida,Wakulla,2506
+1870,Florida,Walton,3041
+1870,Florida,Washington,2302
+1870,Georgia,Appling,5086
+1870,Georgia,Baker,6843
+1870,Georgia,Baldwin,10618
+1870,Georgia,Banks,4973
+1870,Georgia,Bartow,16566
+1870,Georgia,Berrien,4518
+1870,Georgia,Bibb,21255
+1870,Georgia,Brooks,8342
+1870,Georgia,Bryan,5252
+1870,Georgia,Bulloch,5610
+1870,Georgia,Burke,17679
+1870,Georgia,Butts,6941
+1870,Georgia,Calhoun,5503
+1870,Georgia,Camden,4615
+1870,Georgia,Campbell,9176
+1870,Georgia,Carroll,11782
+1870,Georgia,Catoosa,4409
+1870,Georgia,Charlton,1897
+1870,Georgia,Chatham,41279
+1870,Georgia,Chattahoochee,6059
+1870,Georgia,Chattooga,6902
+1870,Georgia,Cherokee,10399
+1870,Georgia,Clarke,12941
+1870,Georgia,Clay,5493
+1870,Georgia,Clayton,5477
+1870,Georgia,Clinch,3945
+1870,Georgia,Cobb,13814
+1870,Georgia,Coffee,3192
+1870,Georgia,Colquitt,1654
+1870,Georgia,Columbia,13529
+1870,Georgia,Coweta,15875
+1870,Georgia,Crawford,7557
+1870,Georgia,Dade,3033
+1870,Georgia,Dawson,4369
+1870,Georgia,Decatur,15183
+1870,Georgia,DeKalb,10014
+1870,Georgia,Dooly,9790
+1870,Georgia,Dougherty,11517
+1870,Georgia,Early,6998
+1870,Georgia,Echols,1978
+1870,Georgia,Effingham,4214
+1870,Georgia,Elbert,9249
+1870,Georgia,Emanuel,6134
+1870,Georgia,Fannin,5429
+1870,Georgia,Fayette,8221
+1870,Georgia,Floyd,17230
+1870,Georgia,Forsyth,7983
+1870,Georgia,Franklin,7893
+1870,Georgia,Fulton,33446
+1870,Georgia,Gilmer,6644
+1870,Georgia,Glascock,2736
+1870,Georgia,Glynn,5376
+1870,Georgia,Gordon,9268
+1870,Georgia,Greene,12454
+1870,Georgia,Gwinnett,12431
+1870,Georgia,Habersham,6322
+1870,Georgia,Hall,9607
+1870,Georgia,Hancock,11317
+1870,Georgia,Haralson,4004
+1870,Georgia,Harris,13284
+1870,Georgia,Hart,6783
+1870,Georgia,Heard,7866
+1870,Georgia,Henry,10102
+1870,Georgia,Houston,20406
+1870,Georgia,Irwin,1837
+1870,Georgia,Jackson,11181
+1870,Georgia,Jasper,10439
+1870,Georgia,Jefferson,12190
+1870,Georgia,Johnson,2964
+1870,Georgia,Jones,9436
+1870,Georgia,Laurens,7834
+1870,Georgia,Lee,9567
+1870,Georgia,Liberty,7688
+1870,Georgia,Lincoln,5413
+1870,Georgia,Lowndes,8321
+1870,Georgia,Lumpkin,5161
+1870,Georgia,McIntosh,4491
+1870,Georgia,Macon,11458
+1870,Georgia,Madison,5227
+1870,Georgia,Marion,8000
+1870,Georgia,Meriwether,13756
+1870,Georgia,Miller,3091
+1870,Georgia,Milton,4284
+1870,Georgia,Mitchell,6633
+1870,Georgia,Monroe,17213
+1870,Georgia,Montgomery,3586
+1870,Georgia,Morgan,10696
+1870,Georgia,Murray,6500
+1870,Georgia,Muscogee,16663
+1870,Georgia,Newton,14615
+1870,Georgia,Oglethorpe,11782
+1870,Georgia,Paulding,7639
+1870,Georgia,Pickens,5317
+1870,Georgia,Pierce,2778
+1870,Georgia,Pike,10905
+1870,Georgia,Polk,7822
+1870,Georgia,Pulaski,11940
+1870,Georgia,Putnam,10461
+1870,Georgia,Quitman,4150
+1870,Georgia,Rabun,3256
+1870,Georgia,Randolph,10561
+1870,Georgia,Richmond,25724
+1870,Georgia,Schley,5129
+1870,Georgia,Screven,9175
+1870,Georgia,Spalding,10205
+1870,Georgia,Stewart,14204
+1870,Georgia,Sumter,16559
+1870,Georgia,Talbot,11913
+1870,Georgia,Taliaferro,4796
+1870,Georgia,Tattnall,4860
+1870,Georgia,Taylor,7143
+1870,Georgia,Telfair,3245
+1870,Georgia,Terrell,9053
+1870,Georgia,Thomas,14523
+1870,Georgia,Towns,2780
+1870,Georgia,Troup,17632
+1870,Georgia,Twiggs,8545
+1870,Georgia,Union,5267
+1870,Georgia,Upson,9430
+1870,Georgia,Walker,9925
+1870,Georgia,Walton,11038
+1870,Georgia,Ware,2286
+1870,Georgia,Warren,10545
+1870,Georgia,Washington,15842
+1870,Georgia,Wayne,2177
+1870,Georgia,Webster,4677
+1870,Georgia,White,4606
+1870,Georgia,Whitfield,10117
+1870,Georgia,Wilcox,2439
+1870,Georgia,Wilkes,11796
+1870,Georgia,Wilkinson,9383
+1870,Georgia,Worth,3778
+1870,Idaho Territory,Ada,2675
+1870,Idaho Territory,Alturas,689
+1870,Idaho Territory,Boise,3834
+1870,Idaho Territory,Idaho,849
+1870,Idaho Territory,Lemhi,988
+1870,Idaho Territory,Nez Perce,1607
+1870,Idaho Territory,Oneida,1922
+1870,Idaho Territory,Owyhee,1713
+1870,Idaho Territory,Shoshone,722
+1870,Illinois,Adams,56362
+1870,Illinois,Alexander,10564
+1870,Illinois,Bond,13152
+1870,Illinois,Boone,12942
+1870,Illinois,Brown,12205
+1870,Illinois,Bureau,32415
+1870,Illinois,Calhoun,6562
+1870,Illinois,Carroll,16705
+1870,Illinois,Cass,11580
+1870,Illinois,Champaign,32737
+1870,Illinois,Christian,20363
+1870,Illinois,Clark,18719
+1870,Illinois,Clay,15875
+1870,Illinois,Clinton,16285
+1870,Illinois,Coles,25235
+1870,Illinois,Cook,349966
+1870,Illinois,Crawford,13889
+1870,Illinois,Cumberland,12223
+1870,Illinois,DeKalb,23265
+1870,Illinois,De Witt,14768
+1870,Illinois,Douglas,13484
+1870,Illinois,Dupage,16685
+1870,Illinois,Edgar,21450
+1870,Illinois,Edwards,7565
+1870,Illinois,Effingham,15653
+1870,Illinois,Fayette,19638
+1870,Illinois,Ford,9103
+1870,Illinois,Franklin,12652
+1870,Illinois,Fulton,38291
+1870,Illinois,Gallatin,11134
+1870,Illinois,Greene,20277
+1870,Illinois,Grundy,14938
+1870,Illinois,Hamilton,13014
+1870,Illinois,Hancock,35935
+1870,Illinois,Hardin,5113
+1870,Illinois,Henderson,12582
+1870,Illinois,Henry,35506
+1870,Illinois,Iroquois,25782
+1870,Illinois,Jackson,19634
+1870,Illinois,Jasper,11234
+1870,Illinois,Jefferson,17864
+1870,Illinois,Jersey,15054
+1870,Illinois,Jo Daviess,27820
+1870,Illinois,Johnson,11248
+1870,Illinois,Kane,39091
+1870,Illinois,Kankakee,24352
+1870,Illinois,Kendall,12399
+1870,Illinois,Knox,39522
+1870,Illinois,Lake,21014
+1870,Illinois,La Salle,60792
+1870,Illinois,Lawrence,12533
+1870,Illinois,Lee,27171
+1870,Illinois,Livingston,31471
+1870,Illinois,Logan,23053
+1870,Illinois,McDonough,26509
+1870,Illinois,McHenry,23762
+1870,Illinois,McLean,53988
+1870,Illinois,Macon,26481
+1870,Illinois,Macoupin,32726
+1870,Illinois,Madison,44131
+1870,Illinois,Marion,20622
+1870,Illinois,Marshall,16956
+1870,Illinois,Mason,16184
+1870,Illinois,Massac,9581
+1870,Illinois,Menard,11735
+1870,Illinois,Mercer,18769
+1870,Illinois,Monroe,12982
+1870,Illinois,Montgomery,25314
+1870,Illinois,Morgan,28463
+1870,Illinois,Moultrie,10385
+1870,Illinois,Ogle,27492
+1870,Illinois,Peoria,47540
+1870,Illinois,Perry,13723
+1870,Illinois,Piatt,10953
+1870,Illinois,Pike,30768
+1870,Illinois,Pope,11437
+1870,Illinois,Pulaski,8752
+1870,Illinois,Putnam,6280
+1870,Illinois,Randolph,20859
+1870,Illinois,Richland,12803
+1870,Illinois,Rock Island,29783
+1870,Illinois,St Clair,51068
+1870,Illinois,Saline,12714
+1870,Illinois,Sangamon,46352
+1870,Illinois,Schuyler,17419
+1870,Illinois,Scott,10530
+1870,Illinois,Shelby,25476
+1870,Illinois,Stark,10751
+1870,Illinois,Stephenson,30608
+1870,Illinois,Tazewell,27903
+1870,Illinois,Union,16518
+1870,Illinois,Vermilion,30388
+1870,Illinois,Wabash,8841
+1870,Illinois,Warren,23174
+1870,Illinois,Washington,17599
+1870,Illinois,Wayne,19758
+1870,Illinois,White,16846
+1870,Illinois,Whiteside,27503
+1870,Illinois,Will,43013
+1870,Illinois,Williamson,17329
+1870,Illinois,Winnebago,29301
+1870,Illinois,Woodford,18956
+1870,Indiana,Adams,11382
+1870,Indiana,Allen,43494
+1870,Indiana,Bartholomew,21133
+1870,Indiana,Benton,5615
+1870,Indiana,Blackford,6272
+1870,Indiana,Boone,22593
+1870,Indiana,Brown,8681
+1870,Indiana,Carroll,16152
+1870,Indiana,Cass,24193
+1870,Indiana,Clark,24770
+1870,Indiana,Clay,19084
+1870,Indiana,Clinton,17330
+1870,Indiana,Crawford,9851
+1870,Indiana,Daviess,16747
+1870,Indiana,Dearborn,24116
+1870,Indiana,Decatur,19053
+1870,Indiana,DeKalb,17167
+1870,Indiana,Delaware,19030
+1870,Indiana,Dubois,12597
+1870,Indiana,Elkhart,26026
+1870,Indiana,Fayette,10476
+1870,Indiana,Floyd,23300
+1870,Indiana,Fountain,16389
+1870,Indiana,Franklin,20223
+1870,Indiana,Fulton,12726
+1870,Indiana,Gibson,17371
+1870,Indiana,Grant,18487
+1870,Indiana,Greene,19514
+1870,Indiana,Hamilton,20882
+1870,Indiana,Hancock,15123
+1870,Indiana,Harrison,19913
+1870,Indiana,Hendricks,20277
+1870,Indiana,Henry,22986
+1870,Indiana,Howard,15847
+1870,Indiana,Huntington,19036
+1870,Indiana,Jackson,18974
+1870,Indiana,Jasper,6354
+1870,Indiana,Jay,15000
+1870,Indiana,Jefferson,29741
+1870,Indiana,Jennings,16218
+1870,Indiana,Johnson,18366
+1870,Indiana,Knox,21562
+1870,Indiana,Kosciusko,23531
+1870,Indiana,Lagrange,14148
+1870,Indiana,Lake,12339
+1870,Indiana,LaPorte,27062
+1870,Indiana,Lawrence,14628
+1870,Indiana,Madison,22770
+1870,Indiana,Marion,71939
+1870,Indiana,Marshall,20211
+1870,Indiana,Martin,11103
+1870,Indiana,Miami,21052
+1870,Indiana,Monroe,14168
+1870,Indiana,Montgomery,23765
+1870,Indiana,Morgan,17528
+1870,Indiana,Newton,5829
+1870,Indiana,Noble,20389
+1870,Indiana,Ohio,5837
+1870,Indiana,Orange,13497
+1870,Indiana,Owen,16137
+1870,Indiana,Parke,18166
+1870,Indiana,Perry,14801
+1870,Indiana,Pike,13779
+1870,Indiana,Porter,13942
+1870,Indiana,Posey,19185
+1870,Indiana,Pulaski,7801
+1870,Indiana,Putnam,21514
+1870,Indiana,Randolph,22862
+1870,Indiana,Ripley,20977
+1870,Indiana,Rush,17626
+1870,Indiana,St Joseph,25322
+1870,Indiana,Scott,7873
+1870,Indiana,Shelby,21892
+1870,Indiana,Spencer,17998
+1870,Indiana,Starke,3888
+1870,Indiana,Steuben,12854
+1870,Indiana,Sullivan,18453
+1870,Indiana,Switzerland,12134
+1870,Indiana,Tippecanoe,33515
+1870,Indiana,Tipton,11953
+1870,Indiana,Union,6341
+1870,Indiana,Vanderburgh,33145
+1870,Indiana,Vermillion,10840
+1870,Indiana,Vigo,33549
+1870,Indiana,Wabash,21305
+1870,Indiana,Warren,10204
+1870,Indiana,Warrick,17653
+1870,Indiana,Washington,18495
+1870,Indiana,Wayne,34048
+1870,Indiana,Wells,13585
+1870,Indiana,White,10554
+1870,Indiana,Whitley,14399
+1870,Iowa,Adair,3982
+1870,Iowa,Adams,4614
+1870,Iowa,Allamakee,17868
+1870,Iowa,Appanoose,16456
+1870,Iowa,Audubon,1212
+1870,Iowa,Benton,22454
+1870,Iowa,Black Hawk,21706
+1870,Iowa,Boone,14584
+1870,Iowa,Bremer,12528
+1870,Iowa,Buchanan,17034
+1870,Iowa,Buena Vista,1585
+1870,Iowa,Butler,9951
+1870,Iowa,Calhoun,1602
+1870,Iowa,Carroll,2451
+1870,Iowa,Cass,5464
+1870,Iowa,Cedar,19731
+1870,Iowa,Cerro Gordo,4722
+1870,Iowa,Cherokee,1967
+1870,Iowa,Chickasaw,10180
+1870,Iowa,Clarke,8735
+1870,Iowa,Clay,1523
+1870,Iowa,Clayton,27771
+1870,Iowa,Clinton,35357
+1870,Iowa,Crawford,2530
+1870,Iowa,Dallas,12019
+1870,Iowa,Davis,15565
+1870,Iowa,Decatur,12018
+1870,Iowa,Delaware,17432
+1870,Iowa,Des Moines,27256
+1870,Iowa,Dickinson,1389
+1870,Iowa,Dubuque,38969
+1870,Iowa,Emmet,1392
+1870,Iowa,Fayette,16973
+1870,Iowa,Floyd,10768
+1870,Iowa,Franklin,4738
+1870,Iowa,Fremont,11174
+1870,Iowa,Greene,4627
+1870,Iowa,Grundy,6399
+1870,Iowa,Guthrie,7061
+1870,Iowa,Hamilton,6055
+1870,Iowa,Hancock,999
+1870,Iowa,Hardin,13684
+1870,Iowa,Harrison,8931
+1870,Iowa,Henry,21463
+1870,Iowa,Howard,6282
+1870,Iowa,Humboldt,2596
+1870,Iowa,Ida,226
+1870,Iowa,Iowa,16644
+1870,Iowa,Jackson,22619
+1870,Iowa,Jasper,22116
+1870,Iowa,Jefferson,17839
+1870,Iowa,Johnson,24898
+1870,Iowa,Jones,19731
+1870,Iowa,Keokuk,19434
+1870,Iowa,Kossuth,3351
+1870,Iowa,Lee,37210
+1870,Iowa,Linn,31080
+1870,Iowa,Louisa,12877
+1870,Iowa,Lucas,10388
+1870,Iowa,Lyon,221
+1870,Iowa,Madison,13884
+1870,Iowa,Mahaska,22508
+1870,Iowa,Marion,24436
+1870,Iowa,Marshall,17576
+1870,Iowa,Mills,8718
+1870,Iowa,Mitchell,9582
+1870,Iowa,Monona,3654
+1870,Iowa,Monroe,12724
+1870,Iowa,Montgomery,5934
+1870,Iowa,Muscatine,21688
+1870,Iowa,O Brien,715
+1870,Iowa,Osceola,
+1870,Iowa,Page,9975
+1870,Iowa,Palo Alto,1336
+1870,Iowa,Plymouth,2199
+1870,Iowa,Pocahontas,1446
+1870,Iowa,Polk,27857
+1870,Iowa,Pottawattamie,16893
+1870,Iowa,Poweshiek,15581
+1870,Iowa,Ringgold,5691
+1870,Iowa,Sac,1411
+1870,Iowa,Scott,38599
+1870,Iowa,Shelby,2540
+1870,Iowa,Sioux,576
+1870,Iowa,Story,11651
+1870,Iowa,Tama,16131
+1870,Iowa,Taylor,6989
+1870,Iowa,Union,5986
+1870,Iowa,Van Buren,17672
+1870,Iowa,Wapello,22346
+1870,Iowa,Warren,17980
+1870,Iowa,Washington,18952
+1870,Iowa,Wayne,11287
+1870,Iowa,Webster,10484
+1870,Iowa,Winnebago,1562
+1870,Iowa,Winneshiek,23570
+1870,Iowa,Woodbury,6172
+1870,Iowa,Worth,2892
+1870,Iowa,Wright,2392
+1870,Kansas,Allen,7022
+1870,Kansas,Anderson,5220
+1870,Kansas,Atchison,15507
+1870,Kansas,Barton,2
+1870,Kansas,Bourbon,15076
+1870,Kansas,Brown,6823
+1870,Kansas,Butler,3035
+1870,Kansas,Chase,1975
+1870,Kansas,Cherokee,11038
+1870,Kansas,Clay,2942
+1870,Kansas,Cloud,2323
+1870,Kansas,Coffey,6201
+1870,Kansas,Cowley,1175
+1870,Kansas,Crawford,8160
+1870,Kansas,Davis,5526
+1870,Kansas,Dickinson,3043
+1870,Kansas,Doniphan,13969
+1870,Kansas,Douglas,20592
+1870,Kansas,Ellis,1336
+1870,Kansas,Ellsworth,1185
+1870,Kansas,Ford,427
+1870,Kansas,Franklin,10385
+1870,Kansas,Greenwood,3484
+1870,Kansas,Howard,2794
+1870,Kansas,Jackson,6053
+1870,Kansas,Jefferson,12526
+1870,Kansas,Jewell,207
+1870,Kansas,Johnson,13684
+1870,Kansas,Labette,9973
+1870,Kansas,Leavenworth,32444
+1870,Kansas,Lincoln,516
+1870,Kansas,Linn,12174
+1870,Kansas,Lyon,8014
+1870,Kansas,McPherson,738
+1870,Kansas,Marion,768
+1870,Kansas,Marshall,6901
+1870,Kansas,Miami,11725
+1870,Kansas,Mitchell,485
+1870,Kansas,Montgomery,7564
+1870,Kansas,Morris,2225
+1870,Kansas,Nemaha,7339
+1870,Kansas,Neosho,10206
+1870,Kansas,Ness,2
+1870,Kansas,Osage,7648
+1870,Kansas,Osborne,33
+1870,Kansas,Ottawa,2127
+1870,Kansas,Pawnee,179
+1870,Kansas,Pottawatomie,7848
+1870,Kansas,Republic,1281
+1870,Kansas,Rice,5
+1870,Kansas,Riley,5105
+1870,Kansas,Russell,156
+1870,Kansas,Saline,4246
+1870,Kansas,Sedgwick,1095
+1870,Kansas,Shawnee,13121
+1870,Kansas,Smith,66
+1870,Kansas,Sumner,22
+1870,Kansas,Trego,166
+1870,Kansas,Wabaunsee,3362
+1870,Kansas,Wallace,538
+1870,Kansas,Washington,4081
+1870,Kansas,Wilson,6694
+1870,Kansas,Woodson,3827
+1870,Kansas,Wyandotte,10015
+1870,Kentucky,Adair,11065
+1870,Kentucky,Allen,10296
+1870,Kentucky,Anderson,5449
+1870,Kentucky,Ballard,12576
+1870,Kentucky,Barren,17780
+1870,Kentucky,Bath,10145
+1870,Kentucky,Boone,10696
+1870,Kentucky,Bourbon,14863
+1870,Kentucky,Boyd,8573
+1870,Kentucky,Boyle,9515
+1870,Kentucky,Bracken,11409
+1870,Kentucky,Breathitt,5672
+1870,Kentucky,Breckinridge,13440
+1870,Kentucky,Bullitt,7781
+1870,Kentucky,Butler,9404
+1870,Kentucky,Caldwell,10826
+1870,Kentucky,Calloway,9410
+1870,Kentucky,Campbell,27406
+1870,Kentucky,Carroll,6189
+1870,Kentucky,Carter,7509
+1870,Kentucky,Casey,8884
+1870,Kentucky,Christian,23227
+1870,Kentucky,Clark,10882
+1870,Kentucky,Clay,8297
+1870,Kentucky,Clinton,6497
+1870,Kentucky,Crittenden,9381
+1870,Kentucky,Cumberland,7690
+1870,Kentucky,Daviess,20714
+1870,Kentucky,Edmonson,4459
+1870,Kentucky,Elliott,4433
+1870,Kentucky,Estill,9198
+1870,Kentucky,Fayette,26656
+1870,Kentucky,Fleming,13398
+1870,Kentucky,Floyd,7877
+1870,Kentucky,Franklin,15300
+1870,Kentucky,Fulton,6161
+1870,Kentucky,Gallatin,5074
+1870,Kentucky,Garrard,10376
+1870,Kentucky,Grant,9529
+1870,Kentucky,Graves,19398
+1870,Kentucky,Grayson,11580
+1870,Kentucky,Green,9379
+1870,Kentucky,Greenup,11463
+1870,Kentucky,Hancock,6591
+1870,Kentucky,Hardin,15705
+1870,Kentucky,Harlan,4415
+1870,Kentucky,Harrison,12993
+1870,Kentucky,Hart,13687
+1870,Kentucky,Henderson,18457
+1870,Kentucky,Henry,11066
+1870,Kentucky,Hickman,8453
+1870,Kentucky,Hopkins,13827
+1870,Kentucky,Jackson,4547
+1870,Kentucky,Jefferson,118953
+1870,Kentucky,Jessamine,8638
+1870,Kentucky,Johnson,7494
+1870,Kentucky,Josh Bell,3731
+1870,Kentucky,Kenton,36096
+1870,Kentucky,Knox,8294
+1870,Kentucky,Larue,8235
+1870,Kentucky,Laurel,6016
+1870,Kentucky,Lawrence,8497
+1870,Kentucky,Lee,3055
+1870,Kentucky,Letcher,4608
+1870,Kentucky,Lewis,9115
+1870,Kentucky,Lincoln,10947
+1870,Kentucky,Livingston,8200
+1870,Kentucky,Logan,20429
+1870,Kentucky,Lyon,6233
+1870,Kentucky,McCracken,13988
+1870,Kentucky,McLean,7614
+1870,Kentucky,Madison,19543
+1870,Kentucky,Magoffin,4684
+1870,Kentucky,Marion,12838
+1870,Kentucky,Marshall,9455
+1870,Kentucky,Mason,18126
+1870,Kentucky,Meade,9485
+1870,Kentucky,Menifee,1986
+1870,Kentucky,Mercer,13144
+1870,Kentucky,Metcalfe,7934
+1870,Kentucky,Monroe,9231
+1870,Kentucky,Montgomery,7557
+1870,Kentucky,Morgan,5975
+1870,Kentucky,Muhlenberg,12638
+1870,Kentucky,Nelson,14804
+1870,Kentucky,Nicholas,9129
+1870,Kentucky,Ohio,15561
+1870,Kentucky,Oldham,9027
+1870,Kentucky,Owen,14309
+1870,Kentucky,Owsley,3889
+1870,Kentucky,Pendleton,14030
+1870,Kentucky,Perry,4274
+1870,Kentucky,Pike,9562
+1870,Kentucky,Powell,2599
+1870,Kentucky,Pulaski,17670
+1870,Kentucky,Robertson,5399
+1870,Kentucky,Rockcastle,7145
+1870,Kentucky,Rowan,2991
+1870,Kentucky,Russell,5809
+1870,Kentucky,Scott,11607
+1870,Kentucky,Shelby,15733
+1870,Kentucky,Simpson,9573
+1870,Kentucky,Spencer,5956
+1870,Kentucky,Taylor,8226
+1870,Kentucky,Todd,12612
+1870,Kentucky,Trigg,13686
+1870,Kentucky,Trimble,5577
+1870,Kentucky,Union,13640
+1870,Kentucky,Warren,21742
+1870,Kentucky,Washington,12464
+1870,Kentucky,Wayne,10602
+1870,Kentucky,Webster,10937
+1870,Kentucky,Whitley,8278
+1870,Kentucky,Wolfe,3603
+1870,Kentucky,Woodford,8240
+1870,Louisiana,Ascension,11577
+1870,Louisiana,Assumption,13234
+1870,Louisiana,Avoyelles,12926
+1870,Louisiana,Bienville,10636
+1870,Louisiana,Bossier,12675
+1870,Louisiana,Caddo,21714
+1870,Louisiana,Calcasieu,6733
+1870,Louisiana,Caldwell,4820
+1870,Louisiana,Cameron,1591
+1870,Louisiana,Carroll,10110
+1870,Louisiana,Catahoula,8475
+1870,Louisiana,Claiborne,20240
+1870,Louisiana,Concordia,9977
+1870,Louisiana,De Soto,14962
+1870,Louisiana,East Baton Rouge,17816
+1870,Louisiana,East Feliciana,13499
+1870,Louisiana,Franklin,5078
+1870,Louisiana,Grant,4517
+1870,Louisiana,Iberia,9042
+1870,Louisiana,Iberville,12347
+1870,Louisiana,Jackson,7646
+1870,Louisiana,Jefferson,17767
+1870,Louisiana,Lafayette,10388
+1870,Louisiana,Lafourche,14719
+1870,Louisiana,Livingston,4026
+1870,Louisiana,Madison,8600
+1870,Louisiana,Morehouse,9387
+1870,Louisiana,Natchitoches,18265
+1870,Louisiana,Orleans,191418
+1870,Louisiana,Ouachita,11582
+1870,Louisiana,Plaquemines,10552
+1870,Louisiana,Pointe Coupee,12981
+1870,Louisiana,Rapides,18015
+1870,Louisiana,Richland,5110
+1870,Louisiana,Sabine,6456
+1870,Louisiana,St Bernard,3553
+1870,Louisiana,St Charles,4867
+1870,Louisiana,St Helena,5423
+1870,Louisiana,St James,10152
+1870,Louisiana,St John The Baptist,6762
+1870,Louisiana,St Landry,25553
+1870,Louisiana,St Martin,9370
+1870,Louisiana,St Mary,13860
+1870,Louisiana,St Tammany,5586
+1870,Louisiana,Tangipahoa,7928
+1870,Louisiana,Tensas,12419
+1870,Louisiana,Terrebonne,12451
+1870,Louisiana,Union,11685
+1870,Louisiana,Vermilion,4528
+1870,Louisiana,Washington,3330
+1870,Louisiana,West Baton Rouge,5114
+1870,Louisiana,West Feliciana,10499
+1870,Louisiana,Winn,4954
+1870,Maine,Androscoggin,35866
+1870,Maine,Aroostook,29609
+1870,Maine,Cumberland,82021
+1870,Maine,Franklin,18807
+1870,Maine,Hancock,36495
+1870,Maine,Kennebec,53203
+1870,Maine,Knox,30823
+1870,Maine,Lincoln,25597
+1870,Maine,Oxford,33488
+1870,Maine,Penobscot,75150
+1870,Maine,Piscataquis,14403
+1870,Maine,Sagadahoc,18803
+1870,Maine,Somerset,34611
+1870,Maine,Waldo,34522
+1870,Maine,Washington,43343
+1870,Maine,York,60174
+1870,Maryland,Allegany,38536
+1870,Maryland,Anne Arundel,24457
+1870,Maryland,Baltimore,330741
+1870,Maryland,Calvert,9865
+1870,Maryland,Caroline,12101
+1870,Maryland,Carroll,28619
+1870,Maryland,Cecil,25874
+1870,Maryland,Charles,15738
+1870,Maryland,Dorchester,19458
+1870,Maryland,Frederick,47572
+1870,Maryland,Harford,22605
+1870,Maryland,Howard,14150
+1870,Maryland,Kent,17102
+1870,Maryland,Montgomery,20563
+1870,Maryland,Prince Georges,21138
+1870,Maryland,Queen Anne's,16171
+1870,Maryland,St Mary's,14944
+1870,Maryland,Somerset,18190
+1870,Maryland,Talbot,16137
+1870,Maryland,Washington,34712
+1870,Maryland,Wicomico,15802
+1870,Maryland,Worcester,16419
+1870,Maryland,Baltimore City,
+1870,Massachusetts,Barnstable,32774
+1870,Massachusetts,Berkshire,64827
+1870,Massachusetts,Bristol,102886
+1870,Massachusetts,Dukes,3787
+1870,Massachusetts,Essex,200843
+1870,Massachusetts,Franklin,32635
+1870,Massachusetts,Hampden,78409
+1870,Massachusetts,Hampshire,44388
+1870,Massachusetts,Middlesex,274353
+1870,Massachusetts,Nantucket,4123
+1870,Massachusetts,Norfolk,89443
+1870,Massachusetts,Plymouth,65365
+1870,Massachusetts,Suffolk,270802
+1870,Massachusetts,Worcester,192716
+1870,Michigan,Alcona,696
+1870,Michigan,Allegan,32105
+1870,Michigan,Alpena,2756
+1870,Michigan,Antrim,1985
+1870,Michigan,Barry,22199
+1870,Michigan,Bay,15900
+1870,Michigan,Benzie,2184
+1870,Michigan,Berrien,35104
+1870,Michigan,Branch,26226
+1870,Michigan,Calhoun,36569
+1870,Michigan,Cass,21094
+1870,Michigan,Charlevoix,1724
+1870,Michigan,Cheboygan,2196
+1870,Michigan,Chippewa,1689
+1870,Michigan,Clare,366
+1870,Michigan,Clinton,22845
+1870,Michigan,Delta,2542
+1870,Michigan,Eaton,25171
+1870,Michigan,Emmet,1211
+1870,Michigan,Genesee,33900
+1870,Michigan,Gladwin,
+1870,Michigan,Grand Traverse,4443
+1870,Michigan,Gratiot,11810
+1870,Michigan,Hillsdale,31684
+1870,Michigan,Houghton,13879
+1870,Michigan,Huron,9049
+1870,Michigan,Ingham,25268
+1870,Michigan,Ionia,27681
+1870,Michigan,Iosco,3163
+1870,Michigan,Isabella,4113
+1870,Michigan,Jackson,36047
+1870,Michigan,Kalamazoo,32054
+1870,Michigan,Kalkaska,424
+1870,Michigan,Kent,50403
+1870,Michigan,Keweenaw,4205
+1870,Michigan,Lake,548
+1870,Michigan,Lapeer,21345
+1870,Michigan,Leelanau,4576
+1870,Michigan,Lenawee,45595
+1870,Michigan,Livingston,19336
+1870,Michigan,Mackinac,1716
+1870,Michigan,Macomb,27616
+1870,Michigan,Manistee,6074
+1870,Michigan,Manitou,891
+1870,Michigan,Marquette,15033
+1870,Michigan,Mason,3263
+1870,Michigan,Mecosta,5642
+1870,Michigan,Menominee,1791
+1870,Michigan,Midland,3285
+1870,Michigan,Missaukee,130
+1870,Michigan,Monroe,27483
+1870,Michigan,Montcalm,13629
+1870,Michigan,Montmorency,
+1870,Michigan,Muskegon,14894
+1870,Michigan,Newaygo,7294
+1870,Michigan,Oakland,40867
+1870,Michigan,Oceana,7222
+1870,Michigan,Ogemaw,12
+1870,Michigan,Ontonagon,2845
+1870,Michigan,Osceola,2093
+1870,Michigan,Oscoda,70
+1870,Michigan,Otsego,
+1870,Michigan,Ottawa,26651
+1870,Michigan,Presque Isle,355
+1870,Michigan,Roscommon,
+1870,Michigan,Saginaw,39097
+1870,Michigan,St Clair,36661
+1870,Michigan,St Joseph,26275
+1870,Michigan,Sanilac,14562
+1870,Michigan,Schoolcraft,
+1870,Michigan,Shiawassee,20858
+1870,Michigan,Tuscola,13714
+1870,Michigan,Van Buren,28829
+1870,Michigan,Washtenaw,41434
+1870,Michigan,Wayne,119038
+1870,Michigan,Wexford,650
+1870,Minnesota,Aitkin,178
+1870,Minnesota,Anoka,3940
+1870,Minnesota,Becker,308
+1870,Minnesota,Beltrami,80
+1870,Minnesota,Benton,1558
+1870,Minnesota,Big Stone,24
+1870,Minnesota,Blue Earth,17302
+1870,Minnesota,Brown,6396
+1870,Minnesota,Carlton,286
+1870,Minnesota,Carver,11586
+1870,Minnesota,Cass,380
+1870,Minnesota,Chippewa,1467
+1870,Minnesota,Chisago,4358
+1870,Minnesota,Clay,92
+1870,Minnesota,Cottonwood,534
+1870,Minnesota,Crow Wing,200
+1870,Minnesota,Dakota,16312
+1870,Minnesota,Dodge,8598
+1870,Minnesota,Douglas,4239
+1870,Minnesota,Faribault,9940
+1870,Minnesota,Fillmore,24887
+1870,Minnesota,Freeborn,10578
+1870,Minnesota,Goodhue,22618
+1870,Minnesota,Grant,340
+1870,Minnesota,Hennepin,31566
+1870,Minnesota,Houston,14936
+1870,Minnesota,Isanti,2035
+1870,Minnesota,Itasca,96
+1870,Minnesota,Jackson,1825
+1870,Minnesota,Kanabec,93
+1870,Minnesota,Kandiyohi,1760
+1870,Minnesota,Lac Qui Parle (old),145
+1870,Minnesota,Lake,135
+1870,Minnesota,Le Sueur,11607
+1870,Minnesota,McLeod,5643
+1870,Minnesota,Martin,3867
+1870,Minnesota,Meeker,6090
+1870,Minnesota,Mille Lacs,1109
+1870,Minnesota,Monongalia,3161
+1870,Minnesota,Morrison,1681
+1870,Minnesota,Mower,10447
+1870,Minnesota,Murray,209
+1870,Minnesota,Nicollet,8362
+1870,Minnesota,Nobles,117
+1870,Minnesota,Olmsted,19793
+1870,Minnesota,Otter Tail,1968
+1870,Minnesota,Pembina,64
+1870,Minnesota,Pine,648
+1870,Minnesota,Polk,
+1870,Minnesota,Pope,2691
+1870,Minnesota,Ramsey,23085
+1870,Minnesota,Redwood,1829
+1870,Minnesota,Renville,3219
+1870,Minnesota,Rice,16083
+1870,Minnesota,Rock,138
+1870,Minnesota,St Louis,4561
+1870,Minnesota,Scott,11042
+1870,Minnesota,Sherburne,2050
+1870,Minnesota,Sibley,6725
+1870,Minnesota,Stearns,14206
+1870,Minnesota,Steele,8271
+1870,Minnesota,Stevens,174
+1870,Minnesota,Todd,2036
+1870,Minnesota,Traverse,13
+1870,Minnesota,Wabasha,15859
+1870,Minnesota,Wadena,6
+1870,Minnesota,Waseca,7854
+1870,Minnesota,Washington,11809
+1870,Minnesota,Watonwan,2426
+1870,Minnesota,Wilkin,295
+1870,Minnesota,Winona,22319
+1870,Minnesota,Wright,9457
+1870,Mississippi,Adams,19084
+1870,Mississippi,Alcorn,10431
+1870,Mississippi,Amite,10973
+1870,Mississippi,Attala,14776
+1870,Mississippi,Bolivar,9732
+1870,Mississippi,Calhoun,10561
+1870,Mississippi,Carroll,21047
+1870,Mississippi,Chickasaw,19899
+1870,Mississippi,Choctaw,16988
+1870,Mississippi,Claiborne,13386
+1870,Mississippi,Clarke,7505
+1870,Mississippi,Coahoma,7144
+1870,Mississippi,Copiah,20608
+1870,Mississippi,Covington,4753
+1870,Mississippi,DeSoto,32021
+1870,Mississippi,Franklin,7498
+1870,Mississippi,Greene,2038
+1870,Mississippi,Grenada,10571
+1870,Mississippi,Hancock,4239
+1870,Mississippi,Harrison,5795
+1870,Mississippi,Hinds,30488
+1870,Mississippi,Holmes,19370
+1870,Mississippi,Issaquena,6887
+1870,Mississippi,Itawamba,7812
+1870,Mississippi,Jackson,4362
+1870,Mississippi,Jasper,10884
+1870,Mississippi,Jefferson,13848
+1870,Mississippi,Jones,3313
+1870,Mississippi,Kemper,12920
+1870,Mississippi,Lafayette,18802
+1870,Mississippi,Lauderdale,13462
+1870,Mississippi,Lawrence,6720
+1870,Mississippi,Leake,8496
+1870,Mississippi,Lee,15955
+1870,Mississippi,Lincoln,10184
+1870,Mississippi,Lowndes,30502
+1870,Mississippi,Madison,20948
+1870,Mississippi,Marion,4211
+1870,Mississippi,Marshall,29416
+1870,Mississippi,Monroe,22631
+1870,Mississippi,Neshoba,7439
+1870,Mississippi,Newton,10067
+1870,Mississippi,Noxubee,20905
+1870,Mississippi,Oktibbeha,14891
+1870,Mississippi,Panola,20754
+1870,Mississippi,Perry,2694
+1870,Mississippi,Pike,11303
+1870,Mississippi,Pontotoc,12525
+1870,Mississippi,Prentiss,9348
+1870,Mississippi,Rankin,12977
+1870,Mississippi,Scott,7847
+1870,Mississippi,Simpson,5718
+1870,Mississippi,Smith,7126
+1870,Mississippi,Sunflower,5015
+1870,Mississippi,Tallahatchie,7852
+1870,Mississippi,Tippah,20727
+1870,Mississippi,Tishomingo,7350
+1870,Mississippi,Tunica,5358
+1870,Mississippi,Warren,26769
+1870,Mississippi,Washington,14569
+1870,Mississippi,Wayne,4206
+1870,Mississippi,Wilkinson,12705
+1870,Mississippi,Winston,8984
+1870,Mississippi,Yalobusha,13254
+1870,Mississippi,Yazoo,17279
+1870,Missouri,Adair,11448
+1870,Missouri,Andrew,15137
+1870,Missouri,Atchison,8440
+1870,Missouri,Audrain,12307
+1870,Missouri,Barry,10373
+1870,Missouri,Barton,5087
+1870,Missouri,Bates,15960
+1870,Missouri,Benton,11322
+1870,Missouri,Bollinger,8162
+1870,Missouri,Boone,20765
+1870,Missouri,Buchanan,35109
+1870,Missouri,Butler,4298
+1870,Missouri,Caldwell,11390
+1870,Missouri,Callaway,19202
+1870,Missouri,Camden,6108
+1870,Missouri,Cape Girardeau,17558
+1870,Missouri,Carroll,17446
+1870,Missouri,Carter,1455
+1870,Missouri,Cass,19296
+1870,Missouri,Cedar,9474
+1870,Missouri,Chariton,19136
+1870,Missouri,Christian,6707
+1870,Missouri,Clark,13667
+1870,Missouri,Clay,15564
+1870,Missouri,Clinton,14063
+1870,Missouri,Cole,10292
+1870,Missouri,Cooper,20692
+1870,Missouri,Crawford,7982
+1870,Missouri,Dade,8683
+1870,Missouri,Dallas,8383
+1870,Missouri,Daviess,14410
+1870,Missouri,DeKalb,9858
+1870,Missouri,Dent,6357
+1870,Missouri,Douglas,3915
+1870,Missouri,Dunklin,5982
+1870,Missouri,Franklin,30098
+1870,Missouri,Gasconade,10093
+1870,Missouri,Gentry,11607
+1870,Missouri,Greene,21549
+1870,Missouri,Grundy,10567
+1870,Missouri,Harrison,14635
+1870,Missouri,Henry,17401
+1870,Missouri,Hickory,6452
+1870,Missouri,Holt,11652
+1870,Missouri,Howard,17233
+1870,Missouri,Howell,4218
+1870,Missouri,Iron,6278
+1870,Missouri,Jackson,55041
+1870,Missouri,Jasper,14928
+1870,Missouri,Jefferson,15380
+1870,Missouri,Johnson,24648
+1870,Missouri,Knox,10974
+1870,Missouri,Laclede,9380
+1870,Missouri,Lafayette,22623
+1870,Missouri,Lawrence,13067
+1870,Missouri,Lewis,15114
+1870,Missouri,Lincoln,15960
+1870,Missouri,Linn,15900
+1870,Missouri,Livingston,16730
+1870,Missouri,McDonald,5226
+1870,Missouri,Macon,23230
+1870,Missouri,Madison,5849
+1870,Missouri,Maries,5916
+1870,Missouri,Marion,23780
+1870,Missouri,Mercer,11557
+1870,Missouri,Miller,6616
+1870,Missouri,Mississippi,4982
+1870,Missouri,Moniteau,11375
+1870,Missouri,Monroe,17149
+1870,Missouri,Montgomery,10405
+1870,Missouri,Morgan,8434
+1870,Missouri,New Madrid,6357
+1870,Missouri,Newton,12821
+1870,Missouri,Nodaway,14751
+1870,Missouri,Oregon,3287
+1870,Missouri,Osage,10793
+1870,Missouri,Ozark,3363
+1870,Missouri,Pemiscot,2059
+1870,Missouri,Perry,9877
+1870,Missouri,Pettis,18706
+1870,Missouri,Phelps,10506
+1870,Missouri,Pike,23076
+1870,Missouri,Platte,17352
+1870,Missouri,Polk,12445
+1870,Missouri,Pulaski,4714
+1870,Missouri,Putnam,11217
+1870,Missouri,Ralls,10510
+1870,Missouri,Randolph,15908
+1870,Missouri,Ray,18700
+1870,Missouri,Reynolds,3756
+1870,Missouri,Ripley,3175
+1870,Missouri,St Charles,21304
+1870,Missouri,St Clair,6742
+1870,Missouri,Ste Genevieve,8384
+1870,Missouri,St Francois,9742
+1870,Missouri,St Louis,351189
+1870,Missouri,Saline,21672
+1870,Missouri,Schuyler,8820
+1870,Missouri,Scotland,10670
+1870,Missouri,Scott,7317
+1870,Missouri,Shannon,2339
+1870,Missouri,Shelby,10119
+1870,Missouri,Stoddard,8535
+1870,Missouri,Stone,3253
+1870,Missouri,Sullivan,11907
+1870,Missouri,Taney,4407
+1870,Missouri,Texas,9618
+1870,Missouri,Vernon,11247
+1870,Missouri,Warren,9673
+1870,Missouri,Washington,11719
+1870,Missouri,Wayne,6068
+1870,Missouri,Webster,10434
+1870,Missouri,Worth,5004
+1870,Missouri,Wright,5684
+1870,Montana Territory,Beaverhead,722
+1870,Montana Territory,Big Horn,38
+1870,Montana Territory,Chouteau,517
+1870,Montana Territory,Dawson,177
+1870,Montana Territory,Deer Lodge,4367
+1870,Montana Territory,Gallatin,1578
+1870,Montana Territory,Jefferson,1531
+1870,Montana Territory,Lewis And Clark,5040
+1870,Montana Territory,Madison,2684
+1870,Montana Territory,Meagher,1387
+1870,Montana Territory,Missoula,2554
+1870,Nebraska,Adams,19
+1870,Nebraska,Blackbird,31
+1870,Nebraska,Buffalo,193
+1870,Nebraska,Burt,2847
+1870,Nebraska,Butler,1290
+1870,Nebraska,Cass,8151
+1870,Nebraska,Cedar,1032
+1870,Nebraska,Cheyenne,190
+1870,Nebraska,Clay,54
+1870,Nebraska,Colfax,1424
+1870,Nebraska,Cuming,2964
+1870,Nebraska,Dakota,2040
+1870,Nebraska,Dawson,103
+1870,Nebraska,Dixon,1345
+1870,Nebraska,Dodge,4212
+1870,Nebraska,Douglas,19982
+1870,Nebraska,Fillmore,238
+1870,Nebraska,Franklin,26
+1870,Nebraska,Gage,3359
+1870,Nebraska,Grant (old),484
+1870,Nebraska,Hall,1057
+1870,Nebraska,Hamilton,130
+1870,Nebraska,Harrison,631
+1870,Nebraska,Jackson,9
+1870,Nebraska,Jefferson,2440
+1870,Nebraska,Johnson,3429
+1870,Nebraska,Kearney,58
+1870,Nebraska,Lancaster,7074
+1870,Nebraska,L'Eau Qui Court,261
+1870,Nebraska,Lincoln,17
+1870,Nebraska,Lyon,78
+1870,Nebraska,Madison,1133
+1870,Nebraska,Merrick,557
+1870,Nebraska,Monroe,235
+1870,Nebraska,Nemaha,7593
+1870,Nebraska,Nuckolls,8
+1870,Nebraska,Otoe,12345
+1870,Nebraska,Pawnee,4171
+1870,Nebraska,Pierce,152
+1870,Nebraska,Platte,1899
+1870,Nebraska,Polk,136
+1870,Nebraska,Richardson,9780
+1870,Nebraska,Saline,3106
+1870,Nebraska,Sarpy,2913
+1870,Nebraska,Saunders,4547
+1870,Nebraska,Seward,2953
+1870,Nebraska,Stanton,636
+1870,Nebraska,Taylor,97
+1870,Nebraska,Unorganized NW Territory,52
+1870,Nebraska,Unorganized Territory West of Madison County,183
+1870,Nebraska,Washington,4452
+1870,Nebraska,Wayne,182
+1870,Nebraska,Webster,16
+1870,Nebraska,York,604
+1870,Nebraska,Pawnee Reservation,44
+1870,Nebraska,Winnebago Reservation,31
+1870,Nevada,Churchill,196
+1870,Nevada,Douglas,1215
+1870,Nevada,Elko,3447
+1870,Nevada,Esmeralda,1553
+1870,Nevada,Humboldt,1916
+1870,Nevada,Lander,2815
+1870,Nevada,Lincoln,2985
+1870,Nevada,Lyon,1837
+1870,Nevada,Nye,1087
+1870,Nevada,Ormsby,3668
+1870,Nevada,Rio Virgin,450
+1870,Nevada,Roop,133
+1870,Nevada,Storey,11359
+1870,Nevada,Washoe,3091
+1870,Nevada,White Pine,7189
+1870,New Hampshire,Belknap,17681
+1870,New Hampshire,Carroll,17332
+1870,New Hampshire,Cheshire,27265
+1870,New Hampshire,Coos,14932
+1870,New Hampshire,Grafton,39103
+1870,New Hampshire,Hillsborough,64238
+1870,New Hampshire,Merrimack,42151
+1870,New Hampshire,Rockingham,47297
+1870,New Hampshire,Strafford,30243
+1870,New Hampshire,Sullivan,18058
+1870,New Jersey,Atlantic,14093
+1870,New Jersey,Bergen,30122
+1870,New Jersey,Burlington,53639
+1870,New Jersey,Camden,46193
+1870,New Jersey,Cape May,8349
+1870,New Jersey,Cumberland,34665
+1870,New Jersey,Essex,143839
+1870,New Jersey,Gloucester,21562
+1870,New Jersey,Hudson,129067
+1870,New Jersey,Hunterdon,36963
+1870,New Jersey,Mercer,46386
+1870,New Jersey,Middlesex,45029
+1870,New Jersey,Monmouth,46195
+1870,New Jersey,Morris,43137
+1870,New Jersey,Ocean,13628
+1870,New Jersey,Passaic,46416
+1870,New Jersey,Salem,23940
+1870,New Jersey,Somerset,23510
+1870,New Jersey,Sussex,23168
+1870,New Jersey,Union,41859
+1870,New Jersey,Warren,34336
+1870,New Mexico Territory,Bernalillo,7591
+1870,New Mexico Territory,Colfax,1992
+1870,New Mexico Territory,Dona Ana,5864
+1870,New Mexico Territory,Grant,1143
+1870,New Mexico Territory,Lincoln,1803
+1870,New Mexico Territory,Mora,8056
+1870,New Mexico Territory,Rio Arriba,9294
+1870,New Mexico Territory,San Miguel,16058
+1870,New Mexico Territory,Santa Anna,2599
+1870,New Mexico Territory,Santa Fe,9699
+1870,New Mexico Territory,Socorro,6603
+1870,New Mexico Territory,Taos,12079
+1870,New Mexico Territory,Valencia,9093
+1870,New York,Albany,133052
+1870,New York,Allegany,40814
+1870,New York,Broome,44103
+1870,New York,Cattaraugus,43909
+1870,New York,Cayuga,59550
+1870,New York,Chautauqua,59327
+1870,New York,Chemung,35281
+1870,New York,Chenango,40564
+1870,New York,Clinton,47947
+1870,New York,Columbia,47044
+1870,New York,Cortland,25173
+1870,New York,Delaware,42972
+1870,New York,Dutchess,74041
+1870,New York,Erie,178699
+1870,New York,Essex,29042
+1870,New York,Franklin,30271
+1870,New York,Fulton,27064
+1870,New York,Genesee,31606
+1870,New York,Greene,31832
+1870,New York,Hamilton,2960
+1870,New York,Herkimer,39929
+1870,New York,Jefferson,65415
+1870,New York,Kings,419921
+1870,New York,Lewis,28699
+1870,New York,Livingston,38309
+1870,New York,Madison,43522
+1870,New York,Monroe,117868
+1870,New York,Montgomery,34457
+1870,New York,New York,942292
+1870,New York,Niagara,50437
+1870,New York,Oneida,110008
+1870,New York,Onondaga,104183
+1870,New York,Ontario,45108
+1870,New York,Orange,80902
+1870,New York,Orleans,27689
+1870,New York,Oswego,77941
+1870,New York,Otsego,48967
+1870,New York,Putnam,15420
+1870,New York,Queens,73803
+1870,New York,Rensselaer,99549
+1870,New York,Richmond,33029
+1870,New York,Rockland,25213
+1870,New York,St Lawrence,84826
+1870,New York,Saratoga,51529
+1870,New York,Schenectady,21347
+1870,New York,Schoharie,33340
+1870,New York,Schuyler,18989
+1870,New York,Seneca,27823
+1870,New York,Steuben,67717
+1870,New York,Suffolk,46924
+1870,New York,Sullivan,34550
+1870,New York,Tioga,30572
+1870,New York,Tompkins,33178
+1870,New York,Ulster,84075
+1870,New York,Warren,22592
+1870,New York,Washington,49568
+1870,New York,Wayne,47710
+1870,New York,Westchester,131348
+1870,New York,Wyoming,29164
+1870,New York,Yates,19595
+1870,North Carolina,Alamance,11874
+1870,North Carolina,Alexander,6868
+1870,North Carolina,Alleghany,3691
+1870,North Carolina,Anson,12428
+1870,North Carolina,Ashe,9573
+1870,North Carolina,Beaufort,13011
+1870,North Carolina,Bertie,12950
+1870,North Carolina,Bladen,12831
+1870,North Carolina,Brunswick,7754
+1870,North Carolina,Buncombe,15412
+1870,North Carolina,Burke,9777
+1870,North Carolina,Cabarrus,11954
+1870,North Carolina,Caldwell,8476
+1870,North Carolina,Camden,5361
+1870,North Carolina,Carteret,9010
+1870,North Carolina,Caswell,16081
+1870,North Carolina,Catawba,10984
+1870,North Carolina,Chatham,19723
+1870,North Carolina,Cherokee,8080
+1870,North Carolina,Chowan,6450
+1870,North Carolina,Clay,2461
+1870,North Carolina,Cleveland,12696
+1870,North Carolina,Columbus,8474
+1870,North Carolina,Craven,20516
+1870,North Carolina,Cumberland,17035
+1870,North Carolina,Currituck,5131
+1870,North Carolina,Dare,2778
+1870,North Carolina,Davidson,17414
+1870,North Carolina,Davie,9620
+1870,North Carolina,Duplin,15542
+1870,North Carolina,Edgecombe,22970
+1870,North Carolina,Forsyth,13050
+1870,North Carolina,Franklin,14134
+1870,North Carolina,Gaston,12602
+1870,North Carolina,Gates,7724
+1870,North Carolina,Granville,24831
+1870,North Carolina,Greene,8687
+1870,North Carolina,Guilford,21736
+1870,North Carolina,Halifax,20408
+1870,North Carolina,Harnett,8895
+1870,North Carolina,Haywood,7921
+1870,North Carolina,Henderson,7706
+1870,North Carolina,Hertford,9273
+1870,North Carolina,Hyde,6445
+1870,North Carolina,Iredell,16931
+1870,North Carolina,Jackson,6683
+1870,North Carolina,Johnston,16897
+1870,North Carolina,Jones,5002
+1870,North Carolina,Lenoir,10434
+1870,North Carolina,Lincoln,9573
+1870,North Carolina,McDowell,7592
+1870,North Carolina,Macon,6615
+1870,North Carolina,Madison,8192
+1870,North Carolina,Martin,9647
+1870,North Carolina,Mecklenburg,24299
+1870,North Carolina,Mitchell,4705
+1870,North Carolina,Montgomery,7487
+1870,North Carolina,Moore,12040
+1870,North Carolina,Nash,11077
+1870,North Carolina,New Hanover,27978
+1870,North Carolina,Northampton,14749
+1870,North Carolina,Onslow,7569
+1870,North Carolina,Orange,17507
+1870,North Carolina,Pasquotank,8131
+1870,North Carolina,Perquimans,7945
+1870,North Carolina,Person,11170
+1870,North Carolina,Pitt,17276
+1870,North Carolina,Polk,4319
+1870,North Carolina,Randolph,17551
+1870,North Carolina,Richmond,12882
+1870,North Carolina,Robeson,16262
+1870,North Carolina,Rockingham,15708
+1870,North Carolina,Rowan,16810
+1870,North Carolina,Rutherford,13121
+1870,North Carolina,Sampson,16436
+1870,North Carolina,Stanly,8315
+1870,North Carolina,Stokes,11208
+1870,North Carolina,Surry,11252
+1870,North Carolina,Transylvania,3536
+1870,North Carolina,Tyrrell,4173
+1870,North Carolina,Union,12217
+1870,North Carolina,Wake,35617
+1870,North Carolina,Warren,17768
+1870,North Carolina,Washington,6516
+1870,North Carolina,Watauga,5287
+1870,North Carolina,Wayne,18144
+1870,North Carolina,Wilkes,15539
+1870,North Carolina,Wilson,12258
+1870,North Carolina,Yadkin,10697
+1870,North Carolina,Yancey,5909
+1870,Ohio,Adams,20750
+1870,Ohio,Allen,23623
+1870,Ohio,Ashland,21933
+1870,Ohio,Ashtabula,32517
+1870,Ohio,Athens,23768
+1870,Ohio,Auglaize,20041
+1870,Ohio,Belmont,39714
+1870,Ohio,Brown,30802
+1870,Ohio,Butler,39912
+1870,Ohio,Carroll,14491
+1870,Ohio,Champaign,24188
+1870,Ohio,Clark,32070
+1870,Ohio,Clermont,34268
+1870,Ohio,Clinton,21914
+1870,Ohio,Columbiana,38299
+1870,Ohio,Coshocton,23600
+1870,Ohio,Crawford,25556
+1870,Ohio,Cuyahoga,132010
+1870,Ohio,Darke,32278
+1870,Ohio,Defiance,15719
+1870,Ohio,Delaware,25175
+1870,Ohio,Erie,28188
+1870,Ohio,Fairfield,31138
+1870,Ohio,Fayette,17170
+1870,Ohio,Franklin,63019
+1870,Ohio,Fulton,17789
+1870,Ohio,Gallia,25545
+1870,Ohio,Geauga,14190
+1870,Ohio,Greene,28038
+1870,Ohio,Guernsey,23838
+1870,Ohio,Hamilton,260370
+1870,Ohio,Hancock,23847
+1870,Ohio,Hardin,18714
+1870,Ohio,Harrison,18682
+1870,Ohio,Henry,14028
+1870,Ohio,Highland,29133
+1870,Ohio,Hocking,17925
+1870,Ohio,Holmes,18177
+1870,Ohio,Huron,28532
+1870,Ohio,Jackson,21759
+1870,Ohio,Jefferson,29188
+1870,Ohio,Knox,26333
+1870,Ohio,Lake,15935
+1870,Ohio,Lawrence,31380
+1870,Ohio,Licking,35756
+1870,Ohio,Logan,23028
+1870,Ohio,Lorain,30308
+1870,Ohio,Lucas,46722
+1870,Ohio,Madison,15633
+1870,Ohio,Mahoning,31001
+1870,Ohio,Marion,16184
+1870,Ohio,Medina,20092
+1870,Ohio,Meigs,31465
+1870,Ohio,Mercer,17254
+1870,Ohio,Miami,32740
+1870,Ohio,Monroe,25779
+1870,Ohio,Montgomery,64006
+1870,Ohio,Morgan,20363
+1870,Ohio,Morrow,18583
+1870,Ohio,Muskingum,44886
+1870,Ohio,Noble,19949
+1870,Ohio,Ottawa,13364
+1870,Ohio,Paulding,8544
+1870,Ohio,Perry,18453
+1870,Ohio,Pickaway,24875
+1870,Ohio,Pike,15447
+1870,Ohio,Portage,24584
+1870,Ohio,Preble,21809
+1870,Ohio,Putnam,17081
+1870,Ohio,Richland,32516
+1870,Ohio,Ross,37097
+1870,Ohio,Sandusky,25503
+1870,Ohio,Scioto,29302
+1870,Ohio,Seneca,30827
+1870,Ohio,Shelby,20748
+1870,Ohio,Stark,52508
+1870,Ohio,Summit,34674
+1870,Ohio,Trumbull,38659
+1870,Ohio,Tuscarawas,33840
+1870,Ohio,Union,18730
+1870,Ohio,Van Wert,15823
+1870,Ohio,Vinton,15027
+1870,Ohio,Warren,26689
+1870,Ohio,Washington,40609
+1870,Ohio,Wayne,35116
+1870,Ohio,Williams,20991
+1870,Ohio,Wood,24596
+1870,Ohio,Wyandot,18553
+1870,Oregon,Baker,2804
+1870,Oregon,Benton,4584
+1870,Oregon,Clackamas,5993
+1870,Oregon,Clatsop,1255
+1870,Oregon,Columbia,863
+1870,Oregon,Coos,1644
+1870,Oregon,Curry,504
+1870,Oregon,Douglas,6066
+1870,Oregon,Grant,2251
+1870,Oregon,Jackson,4778
+1870,Oregon,Josephine,1204
+1870,Oregon,Lane,6426
+1870,Oregon,Linn,8717
+1870,Oregon,Marion,9965
+1870,Oregon,Multnomah,11510
+1870,Oregon,Polk,4701
+1870,Oregon,Tillamook,408
+1870,Oregon,Umatilla,2916
+1870,Oregon,Union,2552
+1870,Oregon,Wasco,2509
+1870,Oregon,Washington,4261
+1870,Oregon,Yamhill,5012
+1870,Pennsylvania,Adams,30315
+1870,Pennsylvania,Allegheny,262204
+1870,Pennsylvania,Armstrong,43382
+1870,Pennsylvania,Beaver,36148
+1870,Pennsylvania,Bedford,29635
+1870,Pennsylvania,Berks,106701
+1870,Pennsylvania,Blair,38051
+1870,Pennsylvania,Bradford,53204
+1870,Pennsylvania,Bucks,64336
+1870,Pennsylvania,Butler,36510
+1870,Pennsylvania,Cambria,36569
+1870,Pennsylvania,Cameron,4273
+1870,Pennsylvania,Carbon,28144
+1870,Pennsylvania,Centre,34418
+1870,Pennsylvania,Chester,77805
+1870,Pennsylvania,Clarion,26537
+1870,Pennsylvania,Clearfield,25741
+1870,Pennsylvania,Clinton,23211
+1870,Pennsylvania,Columbia,28766
+1870,Pennsylvania,Crawford,63832
+1870,Pennsylvania,Cumberland,43912
+1870,Pennsylvania,Dauphin,60740
+1870,Pennsylvania,Delaware,39403
+1870,Pennsylvania,Elk,8488
+1870,Pennsylvania,Erie,65973
+1870,Pennsylvania,Fayette,43284
+1870,Pennsylvania,Forest,4010
+1870,Pennsylvania,Franklin,45365
+1870,Pennsylvania,Fulton,9360
+1870,Pennsylvania,Greene,25887
+1870,Pennsylvania,Huntingdon,31251
+1870,Pennsylvania,Indiana,36138
+1870,Pennsylvania,Jefferson,21656
+1870,Pennsylvania,Juniata,17390
+1870,Pennsylvania,Lancaster,121340
+1870,Pennsylvania,Lawrence,27298
+1870,Pennsylvania,Lebanon,34096
+1870,Pennsylvania,Lehigh,56796
+1870,Pennsylvania,Luzerne,160915
+1870,Pennsylvania,Lycoming,47626
+1870,Pennsylvania,McKean,8825
+1870,Pennsylvania,Mercer,49977
+1870,Pennsylvania,Mifflin,17508
+1870,Pennsylvania,Monroe,18362
+1870,Pennsylvania,Montgomery,81612
+1870,Pennsylvania,Montour,15344
+1870,Pennsylvania,Northampton,61432
+1870,Pennsylvania,Northumberland,41444
+1870,Pennsylvania,Perry,25447
+1870,Pennsylvania,Philadelphia,674022
+1870,Pennsylvania,Pike,8436
+1870,Pennsylvania,Potter,11265
+1870,Pennsylvania,Schuylkill,116428
+1870,Pennsylvania,Snyder,15606
+1870,Pennsylvania,Somerset,28226
+1870,Pennsylvania,Sullivan,6191
+1870,Pennsylvania,Susquehanna,37523
+1870,Pennsylvania,Tioga,35097
+1870,Pennsylvania,Union,15565
+1870,Pennsylvania,Venango,47925
+1870,Pennsylvania,Warren,23897
+1870,Pennsylvania,Washington,48483
+1870,Pennsylvania,Wayne,33188
+1870,Pennsylvania,Westmoreland,58719
+1870,Pennsylvania,Wyoming,14585
+1870,Pennsylvania,York,76134
+1870,Rhode Island,Bristol,9421
+1870,Rhode Island,Kent,18595
+1870,Rhode Island,Newport,20050
+1870,Rhode Island,Providence,149190
+1870,Rhode Island,Washington,20097
+1870,South Carolina,Abbeville,31129
+1870,South Carolina,Anderson,24049
+1870,South Carolina,Barnwell,35724
+1870,South Carolina,Beaufort,34359
+1870,South Carolina,Charleston,88863
+1870,South Carolina,Chester,18805
+1870,South Carolina,Chesterfield,10584
+1870,South Carolina,Clarendon,14038
+1870,South Carolina,Colleton,25410
+1870,South Carolina,Darlington,26243
+1870,South Carolina,Edgefield,42486
+1870,South Carolina,Fairfield,19888
+1870,South Carolina,Georgetown,16161
+1870,South Carolina,Greenville,22262
+1870,South Carolina,Horry,10721
+1870,South Carolina,Kershaw,11754
+1870,South Carolina,Lancaster,12087
+1870,South Carolina,Laurens,22536
+1870,South Carolina,Lexington,12988
+1870,South Carolina,Marion,22160
+1870,South Carolina,Marlboro,11814
+1870,South Carolina,Newberry,20775
+1870,South Carolina,Oconee,10536
+1870,South Carolina,Orangeburg,16865
+1870,South Carolina,Pickens,10269
+1870,South Carolina,Richland,23025
+1870,South Carolina,Spartanburg,25784
+1870,South Carolina,Sumter,25268
+1870,South Carolina,Union,19248
+1870,South Carolina,Williamsburg,15489
+1870,South Carolina,York,24286
+1870,Tennessee,Anderson,8704
+1870,Tennessee,Bedford,24333
+1870,Tennessee,Benton,8234
+1870,Tennessee,Bledsoe,4870
+1870,Tennessee,Blount,14237
+1870,Tennessee,Bradley,11652
+1870,Tennessee,Campbell,7445
+1870,Tennessee,Cannon,10502
+1870,Tennessee,Carroll,19447
+1870,Tennessee,Carter,7909
+1870,Tennessee,Cheatham,6678
+1870,Tennessee,Claiborne,9321
+1870,Tennessee,Cocke,12458
+1870,Tennessee,Coffee,10237
+1870,Tennessee,Cumberland,3461
+1870,Tennessee,Davidson,62897
+1870,Tennessee,Decatur,7772
+1870,Tennessee,DeKalb,11425
+1870,Tennessee,Dickson,9340
+1870,Tennessee,Dyer,13706
+1870,Tennessee,Fayette,26145
+1870,Tennessee,Fentress,4717
+1870,Tennessee,Franklin,14970
+1870,Tennessee,Gibson,25666
+1870,Tennessee,Giles,32413
+1870,Tennessee,Grainger,12421
+1870,Tennessee,Greene,21668
+1870,Tennessee,Grundy,3250
+1870,Tennessee,Hamilton,17241
+1870,Tennessee,Hancock,7148
+1870,Tennessee,Hardeman,18074
+1870,Tennessee,Hardin,11768
+1870,Tennessee,Hawkins,15837
+1870,Tennessee,Haywood,25094
+1870,Tennessee,Henderson,14217
+1870,Tennessee,Henry,20380
+1870,Tennessee,Hickman,9856
+1870,Tennessee,Humphreys,9326
+1870,Tennessee,Jackson,12583
+1870,Tennessee,Jefferson,19476
+1870,Tennessee,Johnson,5852
+1870,Tennessee,Knox,28990
+1870,Tennessee,Lake,2428
+1870,Tennessee,Lauderdale,10838
+1870,Tennessee,Lawrence,7601
+1870,Tennessee,Lewis,1986
+1870,Tennessee,Lincoln,28050
+1870,Tennessee,McMinn,13969
+1870,Tennessee,McNairy,12726
+1870,Tennessee,Macon,6633
+1870,Tennessee,Madison,23480
+1870,Tennessee,Marion,6841
+1870,Tennessee,Marshall,16207
+1870,Tennessee,Maury,36289
+1870,Tennessee,Meigs,4511
+1870,Tennessee,Monroe,12589
+1870,Tennessee,Montgomery,24747
+1870,Tennessee,Morgan,2969
+1870,Tennessee,Obion,15584
+1870,Tennessee,Overton,11297
+1870,Tennessee,Perry,6925
+1870,Tennessee,Polk,7369
+1870,Tennessee,Putnam,8698
+1870,Tennessee,Rhea,5538
+1870,Tennessee,Roane,15622
+1870,Tennessee,Robertson,16166
+1870,Tennessee,Rutherford,33289
+1870,Tennessee,Scott,4054
+1870,Tennessee,Sequatchie,2335
+1870,Tennessee,Sevier,11028
+1870,Tennessee,Shelby,76378
+1870,Tennessee,Smith,15994
+1870,Tennessee,Stewart,12019
+1870,Tennessee,Sullivan,13136
+1870,Tennessee,Sumner,23711
+1870,Tennessee,Tipton,14884
+1870,Tennessee,Union,7605
+1870,Tennessee,Van Buren,2725
+1870,Tennessee,Warren,12714
+1870,Tennessee,Washington,16317
+1870,Tennessee,Wayne,10209
+1870,Tennessee,Weakley,20755
+1870,Tennessee,White,9375
+1870,Tennessee,Williamson,25328
+1870,Tennessee,Wilson,25881
+1870,Texas,Anderson,9229
+1870,Texas,Angelina,3985
+1870,Texas,Archer,
+1870,Texas,Atascosa,2915
+1870,Texas,Austin,15087
+1870,Texas,Bandera,649
+1870,Texas,Bastrop,12290
+1870,Texas,Baylor,
+1870,Texas,Bee,1082
+1870,Texas,Bell,9771
+1870,Texas,Bexar,16043
+1870,Texas,Bexar District,1077
+1870,Texas,Blanco,1187
+1870,Texas,Bosque,4981
+1870,Texas,Bowie,4684
+1870,Texas,Brazoria,7527
+1870,Texas,Brazos,9205
+1870,Texas,Brown,544
+1870,Texas,Burleson,8072
+1870,Texas,Burnet,3688
+1870,Texas,Caldwell,6572
+1870,Texas,Calhoun,3443
+1870,Texas,Callahan,
+1870,Texas,Cameron,10999
+1870,Texas,Chambers,1503
+1870,Texas,Cherokee,11079
+1870,Texas,Clay,
+1870,Texas,Coleman,347
+1870,Texas,Collin,14013
+1870,Texas,Colorado,8326
+1870,Texas,Comal,5283
+1870,Texas,Comanche,1001
+1870,Texas,Concho,
+1870,Texas,Cooke,5315
+1870,Texas,Coryell,4124
+1870,Texas,Dallas,13314
+1870,Texas,Davis,8875
+1870,Texas,Denton,7251
+1870,Texas,DeWitt,6443
+1870,Texas,Dimmit,109
+1870,Texas,Duval,1083
+1870,Texas,Eastland,88
+1870,Texas,Edwards,
+1870,Texas,Ellis,7514
+1870,Texas,El Paso,3671
+1870,Texas,Encinal,427
+1870,Texas,Erath,1801
+1870,Texas,Falls,9851
+1870,Texas,Fannin,13207
+1870,Texas,Fayette,16863
+1870,Texas,Fort Bend,7114
+1870,Texas,Freestone,8139
+1870,Texas,Frio,309
+1870,Texas,Galveston,15290
+1870,Texas,Gillespie,3566
+1870,Texas,Goliad,3628
+1870,Texas,Gonzales,8951
+1870,Texas,Grayson,14387
+1870,Texas,Grimes,13218
+1870,Texas,Guadalupe,7282
+1870,Texas,Hamilton,733
+1870,Texas,Hardeman,
+1870,Texas,Hardin,1460
+1870,Texas,Harris,17375
+1870,Texas,Harrison,13241
+1870,Texas,Haskell,
+1870,Texas,Hays,4088
+1870,Texas,Henderson,6786
+1870,Texas,Hidalgo,2387
+1870,Texas,Hill,7453
+1870,Texas,Hood,2585
+1870,Texas,Hopkins,12651
+1870,Texas,Houston,8147
+1870,Texas,Hunt,10291
+1870,Texas,Jack,694
+1870,Texas,Jackson,2278
+1870,Texas,Jasper,4218
+1870,Texas,Jefferson,1906
+1870,Texas,Johnson,4923
+1870,Texas,Jones,
+1870,Texas,Karnes,1705
+1870,Texas,Kaufman,6895
+1870,Texas,Kendall,1536
+1870,Texas,Kerr,1042
+1870,Texas,Kimble,72
+1870,Texas,Kinney,1204
+1870,Texas,Knox,
+1870,Texas,Lamar,15790
+1870,Texas,Lampasas,1344
+1870,Texas,La Salle,69
+1870,Texas,Lavaca,9168
+1870,Texas,Leon,6523
+1870,Texas,Liberty,4414
+1870,Texas,Limestone,8591
+1870,Texas,Live Oak,852
+1870,Texas,Llano,1379
+1870,Texas,McCulloch,173
+1870,Texas,McLennan,13500
+1870,Texas,McMullen,230
+1870,Texas,Madison,4061
+1870,Texas,Marion,8562
+1870,Texas,Mason,678
+1870,Texas,Matagorda,3377
+1870,Texas,Maverick,1951
+1870,Texas,Medina,2078
+1870,Texas,Menard,667
+1870,Texas,Milam,8984
+1870,Texas,Montague,890
+1870,Texas,Montgomery,6483
+1870,Texas,Nacogdoches,9614
+1870,Texas,Navarro,8879
+1870,Texas,Newton,2187
+1870,Texas,Nueces,3975
+1870,Texas,Orange,1255
+1870,Texas,Palo Pinto,
+1870,Texas,Panola,10119
+1870,Texas,Parker,4186
+1870,Texas,Polk,8707
+1870,Texas,Presidio,1636
+1870,Texas,Red River,10653
+1870,Texas,Refugio,2324
+1870,Texas,Robertson,9990
+1870,Texas,Runnels,
+1870,Texas,Rusk,16916
+1870,Texas,Sabine,3256
+1870,Texas,San Augustine,4196
+1870,Texas,San Patricio,602
+1870,Texas,San Saba,1425
+1870,Texas,Shackelford,455
+1870,Texas,Shelby,5732
+1870,Texas,Smith,16532
+1870,Texas,Starr,4154
+1870,Texas,Stephens,330
+1870,Texas,Tarrant,5788
+1870,Texas,Taylor,
+1870,Texas,Throckmorton,
+1870,Texas,Titus,11339
+1870,Texas,Travis,13153
+1870,Texas,Trinity,4141
+1870,Texas,Tyler,5010
+1870,Texas,Upshur,12039
+1870,Texas,Uvalde,851
+1870,Texas,Van Zandt,6494
+1870,Texas,Victoria,4860
+1870,Texas,Walker,9776
+1870,Texas,Washington,23104
+1870,Texas,Webb,2615
+1870,Texas,Wharton,3426
+1870,Texas,Wichita,
+1870,Texas,Wilbarger,
+1870,Texas,Williamson,6368
+1870,Texas,Wilson,2556
+1870,Texas,Wise,1450
+1870,Texas,Wood,6894
+1870,Texas,Young,135
+1870,Texas,Zapata,1488
+1870,Texas,Zavala,133
+1870,Utah Territory,Beaver,2007
+1870,Utah Territory,Box Elder,4855
+1870,Utah Territory,Cache,8229
+1870,Utah Territory,Davis,4459
+1870,Utah Territory,Iron,2277
+1870,Utah Territory,Juab,2034
+1870,Utah Territory,Kane,1513
+1870,Utah Territory,Millard,2753
+1870,Utah Territory,Morgan,1972
+1870,Utah Territory,Piute,82
+1870,Utah Territory,Rich,1955
+1870,Utah Territory,Salt Lake,18337
+1870,Utah Territory,Sanpete,6786
+1870,Utah Territory,Sevier,19
+1870,Utah Territory,Summit,2512
+1870,Utah Territory,Tooele,2177
+1870,Utah Territory,Utah,12203
+1870,Utah Territory,Wasatch,1244
+1870,Utah Territory,Washington,3064
+1870,Utah Territory,Weber,7858
+1870,Vermont,Addison,23484
+1870,Vermont,Bennington,21325
+1870,Vermont,Caledonia,22235
+1870,Vermont,Chittenden,36480
+1870,Vermont,Essex,6811
+1870,Vermont,Franklin,30291
+1870,Vermont,Grand Isle,4082
+1870,Vermont,Lamoille,12448
+1870,Vermont,Orange,23090
+1870,Vermont,Orleans,21035
+1870,Vermont,Rutland,40651
+1870,Vermont,Washington,26520
+1870,Vermont,Windham,26036
+1870,Vermont,Windsor,36063
+1870,Virginia,Accomack,20409
+1870,Virginia,Albemarle,27544
+1870,Virginia,Alexandria,16755
+1870,Virginia,Alleghany,3674
+1870,Virginia,Amelia,9878
+1870,Virginia,Amherst,14900
+1870,Virginia,Appomattox,8950
+1870,Virginia,Augusta,28763
+1870,Virginia,Bath,3795
+1870,Virginia,Bedford,25327
+1870,Virginia,Bland,4000
+1870,Virginia,Botetourt,11329
+1870,Virginia,Brunswick,13427
+1870,Virginia,Buchanan,3777
+1870,Virginia,Buckingham,13371
+1870,Virginia,Campbell,28384
+1870,Virginia,Caroline,15128
+1870,Virginia,Carroll,9147
+1870,Virginia,Charles City,4975
+1870,Virginia,Charlotte,14513
+1870,Virginia,Chesterfield,18470
+1870,Virginia,Clarke,6670
+1870,Virginia,Craig,2942
+1870,Virginia,Culpeper,12227
+1870,Virginia,Cumberland,8142
+1870,Virginia,Dinwiddie,30702
+1870,Virginia,Elizabeth City,8303
+1870,Virginia,Essex,9927
+1870,Virginia,Fairfax,12952
+1870,Virginia,Fauquier,19690
+1870,Virginia,Floyd,9824
+1870,Virginia,Fluvanna,9875
+1870,Virginia,Franklin,18264
+1870,Virginia,Frederick,16596
+1870,Virginia,Giles,5875
+1870,Virginia,Gloucester,10211
+1870,Virginia,Goochland,10313
+1870,Virginia,Grayson,9587
+1870,Virginia,Greene,4634
+1870,Virginia,Greensville,6362
+1870,Virginia,Halifax,27828
+1870,Virginia,Hanover,16455
+1870,Virginia,Henrico,66179
+1870,Virginia,Henry,12303
+1870,Virginia,Highland,4151
+1870,Virginia,Isle Of Wight,8320
+1870,Virginia,James City,4425
+1870,Virginia,King And Queen,9709
+1870,Virginia,King George,5742
+1870,Virginia,King William,7515
+1870,Virginia,Lancaster,5355
+1870,Virginia,Lee,13268
+1870,Virginia,Loudoun,20929
+1870,Virginia,Louisa,16332
+1870,Virginia,Lunenburg,10403
+1870,Virginia,Madison,8670
+1870,Virginia,Mathews,6200
+1870,Virginia,Mecklenburg,21318
+1870,Virginia,Middlesex,4981
+1870,Virginia,Montgomery,12556
+1870,Virginia,Nansemond,11576
+1870,Virginia,Nelson,13898
+1870,Virginia,New Kent,4381
+1870,Virginia,Norfolk,46702
+1870,Virginia,Northampton,8046
+1870,Virginia,Northumberland,6863
+1870,Virginia,Nottoway,9291
+1870,Virginia,Orange,10396
+1870,Virginia,Page,8462
+1870,Virginia,Patrick,10161
+1870,Virginia,Pittsylvania,31343
+1870,Virginia,Powhatan,7667
+1870,Virginia,Prince Edward,12004
+1870,Virginia,Prince George,7820
+1870,Virginia,Princess Anne,8273
+1870,Virginia,Prince William,7504
+1870,Virginia,Pulaski,6538
+1870,Virginia,Rappahannock,8261
+1870,Virginia,Richmond,6503
+1870,Virginia,Roanoke,9350
+1870,Virginia,Rockbridge,16058
+1870,Virginia,Rockingham,23668
+1870,Virginia,Russell,11103
+1870,Virginia,Scott,13036
+1870,Virginia,Shenandoah,14936
+1870,Virginia,Smyth,8898
+1870,Virginia,Southampton,12285
+1870,Virginia,Spotsylvania,11728
+1870,Virginia,Stafford,6420
+1870,Virginia,Surry,5585
+1870,Virginia,Sussex,7885
+1870,Virginia,Tazewell,10791
+1870,Virginia,Warren,5716
+1870,Virginia,Warwick,1672
+1870,Virginia,Washington,16816
+1870,Virginia,Westmoreland,7682
+1870,Virginia,Wise,4785
+1870,Virginia,Wythe,11611
+1870,Virginia,York,7198
+1870,Washington Territory,Chihallis,401
+1870,Washington Territory,Clallam,408
+1870,Washington Territory,Clark,3081
+1870,Washington Territory,Cowlitz,730
+1870,Washington Territory,Island,626
+1870,Washington Territory,Jefferson,1268
+1870,Washington Territory,King,2120
+1870,Washington Territory,Kitsap,866
+1870,Washington Territory,Klikatat,329
+1870,Washington Territory,Lewis,888
+1870,Washington Territory,Mason,289
+1870,Washington Territory,Pacific,738
+1870,Washington Territory,Pierce,1409
+1870,Washington Territory,The Disputed Islands,554
+1870,Washington Territory,Skamania,133
+1870,Washington Territory,Snohomish,599
+1870,Washington Territory,Stevens,734
+1870,Washington Territory,Thurston,2246
+1870,Washington Territory,Wahkiakum,270
+1870,Washington Territory,Walla Walla,5300
+1870,Washington Territory,Whatcom,534
+1870,Washington Territory,Yakima,432
+1870,West Virginia,Barbour,10312
+1870,West Virginia,Berkeley,14900
+1870,West Virginia,Boone,4553
+1870,West Virginia,Braxton,6480
+1870,West Virginia,Brooke,5464
+1870,West Virginia,Cabell,6429
+1870,West Virginia,Calhoun,2939
+1870,West Virginia,Clay,2196
+1870,West Virginia,Doddridge,7076
+1870,West Virginia,Fayette,6647
+1870,West Virginia,Gilmer,4338
+1870,West Virginia,Grant,4467
+1870,West Virginia,Greenbrier,11417
+1870,West Virginia,Hampshire,7643
+1870,West Virginia,Hancock,4363
+1870,West Virginia,Hardy,5518
+1870,West Virginia,Harrison,16714
+1870,West Virginia,Jackson,10300
+1870,West Virginia,Jefferson,13219
+1870,West Virginia,Kanawha,22349
+1870,West Virginia,Lewis,10175
+1870,West Virginia,Lincoln,5053
+1870,West Virginia,Logan,5124
+1870,West Virginia,McDowell,1952
+1870,West Virginia,Marion,12107
+1870,West Virginia,Marshall,14941
+1870,West Virginia,Mason,15978
+1870,West Virginia,Mercer,7064
+1870,West Virginia,Mineral,6332
+1870,West Virginia,Monongalia,13547
+1870,West Virginia,Monroe,11124
+1870,West Virginia,Morgan,4315
+1870,West Virginia,Nicholas,4458
+1870,West Virginia,Ohio,28831
+1870,West Virginia,Pendleton,6455
+1870,West Virginia,Pleasants,3012
+1870,West Virginia,Pocahontas,4069
+1870,West Virginia,Preston,14555
+1870,West Virginia,Putnam,7794
+1870,West Virginia,Raleigh,3673
+1870,West Virginia,Randolph,5563
+1870,West Virginia,Ritchie,9055
+1870,West Virginia,Roane,7232
+1870,West Virginia,Taylor,9367
+1870,West Virginia,Tucker,1907
+1870,West Virginia,Tyler,7832
+1870,West Virginia,Upshur,8023
+1870,West Virginia,Wayne,7852
+1870,West Virginia,Webster,1730
+1870,West Virginia,Wetzel,8595
+1870,West Virginia,Wirt,4804
+1870,West Virginia,Wood,19000
+1870,West Virginia,Wyoming,3171
+1870,Wisconsin,Adams,6601
+1870,Wisconsin,Ashland,221
+1870,Wisconsin,Barron,538
+1870,Wisconsin,Bayfield,344
+1870,Wisconsin,Brown,25168
+1870,Wisconsin,Buffalo,11123
+1870,Wisconsin,Burnett,706
+1870,Wisconsin,Calumet,12335
+1870,Wisconsin,Chippewa,8311
+1870,Wisconsin,Clark,3450
+1870,Wisconsin,Columbia,28802
+1870,Wisconsin,Crawford,13075
+1870,Wisconsin,Dane,53096
+1870,Wisconsin,Dodge,47035
+1870,Wisconsin,Door,4919
+1870,Wisconsin,Douglas,1122
+1870,Wisconsin,Dunn,9488
+1870,Wisconsin,Eau Claire,10769
+1870,Wisconsin,Fond du Lac,46273
+1870,Wisconsin,Grant,37979
+1870,Wisconsin,Green,23611
+1870,Wisconsin,Green Lake,13195
+1870,Wisconsin,Iowa,24544
+1870,Wisconsin,Jackson,7687
+1870,Wisconsin,Jefferson,34040
+1870,Wisconsin,Juneau,12372
+1870,Wisconsin,Kenosha,13147
+1870,Wisconsin,Kewaunee,10128
+1870,Wisconsin,La Crosse,20297
+1870,Wisconsin,Lafayette,22659
+1870,Wisconsin,Manitowoc,33364
+1870,Wisconsin,Marathon,5885
+1870,Wisconsin,Marquette,8056
+1870,Wisconsin,Milwaukee,89930
+1870,Wisconsin,Monroe,16550
+1870,Wisconsin,Oconto,8321
+1870,Wisconsin,Outagamie,18430
+1870,Wisconsin,Ozaukee,15564
+1870,Wisconsin,Pepin,4659
+1870,Wisconsin,Pierce,9958
+1870,Wisconsin,Polk,3422
+1870,Wisconsin,Portage,10634
+1870,Wisconsin,Racine,26740
+1870,Wisconsin,Richland,15731
+1870,Wisconsin,Rock,39030
+1870,Wisconsin,St Croix,11035
+1870,Wisconsin,Sauk,23860
+1870,Wisconsin,Shawano,3166
+1870,Wisconsin,Sheboygan,31749
+1870,Wisconsin,Trempealeau,10732
+1870,Wisconsin,Vernon,18645
+1870,Wisconsin,Walworth,25972
+1870,Wisconsin,Washington,23919
+1870,Wisconsin,Waukesha,28274
+1870,Wisconsin,Waupaca,15539
+1870,Wisconsin,Waushara,11279
+1870,Wisconsin,Winnebago,37279
+1870,Wisconsin,Wood,3912
+1870,Wyoming Territory,Albany,2021
+1870,Wyoming Territory,Carbon,1368
+1870,Wyoming Territory,Laramie,2957
+1870,Wyoming Territory,Sweetwater,1916
+1870,Wyoming Territory,Uinta,856

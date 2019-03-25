@@ -1,0 +1,2103 @@
+YEAR,STATE,COUNTY,total_population
+1860,Alabama,Autauga,16739
+1860,Alabama,Baldwin,7530
+1860,Alabama,Barbour,30812
+1860,Alabama,Bibb,11894
+1860,Alabama,Blount,10865
+1860,Alabama,Butler,18122
+1860,Alabama,Calhoun,21539
+1860,Alabama,Chambers,23214
+1860,Alabama,Cherokee,18360
+1860,Alabama,Choctaw,13877
+1860,Alabama,Clarke,15049
+1860,Alabama,Coffee,9623
+1860,Alabama,Conecuh,11311
+1860,Alabama,Coosa,19273
+1860,Alabama,Covington,6469
+1860,Alabama,Dale,12197
+1860,Alabama,Dallas,33625
+1860,Alabama,DeKalb,10705
+1860,Alabama,Fayette,12850
+1860,Alabama,Franklin,18627
+1860,Alabama,Greene,30859
+1860,Alabama,Henry,14918
+1860,Alabama,Jackson,18283
+1860,Alabama,Jefferson,11746
+1860,Alabama,Lauderdale,17420
+1860,Alabama,Lawrence,13975
+1860,Alabama,Limestone,15306
+1860,Alabama,Lowndes,27716
+1860,Alabama,Macon,26802
+1860,Alabama,Madison,26451
+1860,Alabama,Marengo,31171
+1860,Alabama,Marion,11182
+1860,Alabama,Marshall,11472
+1860,Alabama,Mobile,41131
+1860,Alabama,Monroe,15667
+1860,Alabama,Montgomery,35904
+1860,Alabama,Morgan,11335
+1860,Alabama,Perry,27724
+1860,Alabama,Pickens,22316
+1860,Alabama,Pike,24435
+1860,Alabama,Randolph,20059
+1860,Alabama,Russell,26592
+1860,Alabama,St Clair,11013
+1860,Alabama,Shelby,12618
+1860,Alabama,Sumter,24035
+1860,Alabama,Talladega,23520
+1860,Alabama,Tallapoosa,23827
+1860,Alabama,Tuscaloosa,23200
+1860,Alabama,Walker,7980
+1860,Alabama,Washington,4669
+1860,Alabama,Wilcox,24618
+1860,Alabama,Winston,3576
+1860,Arkansas,Arkansas,8844
+1860,Arkansas,Ashley,8590
+1860,Arkansas,Benton,9306
+1860,Arkansas,Bradley,8388
+1860,Arkansas,Calhoun,4103
+1860,Arkansas,Carroll,9383
+1860,Arkansas,Chicot,9234
+1860,Arkansas,Clark,9735
+1860,Arkansas,Columbia,12449
+1860,Arkansas,Conway,6697
+1860,Arkansas,Craighead,3066
+1860,Arkansas,Crawford,7850
+1860,Arkansas,Crittenden,4920
+1860,Arkansas,Dallas,8283
+1860,Arkansas,Desha,6459
+1860,Arkansas,Drew,9078
+1860,Arkansas,Franklin,7298
+1860,Arkansas,Fulton,4024
+1860,Arkansas,Greene,5843
+1860,Arkansas,Hempstead,13989
+1860,Arkansas,Hot Spring,5635
+1860,Arkansas,Independence,14307
+1860,Arkansas,Izard,7215
+1860,Arkansas,Jackson,10493
+1860,Arkansas,Jefferson,14971
+1860,Arkansas,Johnson,7612
+1860,Arkansas,Lafayette,8464
+1860,Arkansas,Lawrence,9372
+1860,Arkansas,Madison,7740
+1860,Arkansas,Marion,6192
+1860,Arkansas,Mississippi,3895
+1860,Arkansas,Monroe,5657
+1860,Arkansas,Montgomery,3633
+1860,Arkansas,Newton,3393
+1860,Arkansas,Ouachita,12936
+1860,Arkansas,Perry,2465
+1860,Arkansas,Phillips,14877
+1860,Arkansas,Pike,4025
+1860,Arkansas,Poinsett,3621
+1860,Arkansas,Polk,4262
+1860,Arkansas,Pope,7883
+1860,Arkansas,Prairie,8854
+1860,Arkansas,Pulaski,11699
+1860,Arkansas,Randolph,6261
+1860,Arkansas,St Francis,8672
+1860,Arkansas,Saline,6640
+1860,Arkansas,Scott,5145
+1860,Arkansas,Searcy,5271
+1860,Arkansas,Sebastian,9238
+1860,Arkansas,Sevier,10516
+1860,Arkansas,Union,12288
+1860,Arkansas,Van Buren,5357
+1860,Arkansas,Washington,14673
+1860,Arkansas,White,8316
+1860,Arkansas,Yell,6333
+1860,California,Alameda,8927
+1860,California,Amador,10930
+1860,California,Butte,12106
+1860,California,Calaveras,16299
+1860,California,Colusa,2274
+1860,California,Contra Costa,5328
+1860,California,Del Norte,1993
+1860,California,El Dorado,20562
+1860,California,Fresno,4605
+1860,California,Humboldt,2694
+1860,California,Klamath,1803
+1860,California,Los Angeles,11333
+1860,California,Marin,3334
+1860,California,Mariposa,6243
+1860,California,Mendocino,3967
+1860,California,Merced,1141
+1860,California,Monterey,4739
+1860,California,Napa,5521
+1860,California,Nevada,16446
+1860,California,Placer,13270
+1860,California,Plumas,4363
+1860,California,Sacramento,24142
+1860,California,San Bernardino,5551
+1860,California,San Diego,4324
+1860,California,San Francisco,56802
+1860,California,San Joaquin,9435
+1860,California,San Luis Obispo,1782
+1860,California,San Mateo,3214
+1860,California,Santa Barbara,3543
+1860,California,Santa Clara,11912
+1860,California,Santa Cruz,4944
+1860,California,Shasta,4360
+1860,California,Sierra,11387
+1860,California,Siskiyou,7629
+1860,California,Solano,7169
+1860,California,Sonoma,11867
+1860,California,Stanislaus,2245
+1860,California,Sutter,3390
+1860,California,Tehama,4044
+1860,California,Trinity,5125
+1860,California,Tulare,4638
+1860,California,Tuolumne,16229
+1860,California,Yolo,4716
+1860,California,Yuba,13668
+1860,Connecticut,Fairfield,77476
+1860,Connecticut,Hartford,89962
+1860,Connecticut,Litchfield,47318
+1860,Connecticut,Middlesex,30859
+1860,Connecticut,New Haven,97345
+1860,Connecticut,New London,61731
+1860,Connecticut,Tolland,20709
+1860,Connecticut,Windham,34747
+1860,Delaware,Kent,27804
+1860,Delaware,New Castle,54797
+1860,Delaware,Sussex,29615
+1860,Florida,Alachua,8232
+1860,Florida,Brevard,246
+1860,Florida,Calhoun,1446
+1860,Florida,Clay,1914
+1860,Florida,Columbia,4646
+1860,Florida,Dade,83
+1860,Florida,Duval,5074
+1860,Florida,Escambia,5768
+1860,Florida,Franklin,1904
+1860,Florida,Gadsden,9396
+1860,Florida,Hamilton,4154
+1860,Florida,Hernando,1200
+1860,Florida,Hillsborough,2981
+1860,Florida,Holmes,1386
+1860,Florida,Jackson,10209
+1860,Florida,Jefferson,9876
+1860,Florida,Lafayette,2068
+1860,Florida,Leon,12343
+1860,Florida,Levy,1781
+1860,Florida,Liberty,1457
+1860,Florida,Madison,7779
+1860,Florida,Manatee,854
+1860,Florida,Marion,8609
+1860,Florida,Monroe,2913
+1860,Florida,Monroe-Dade [multi-county reporting area],
+1860,Florida,Nassau,3644
+1860,Florida,New River,3820
+1860,Florida,Orange,987
+1860,Florida,Putnam,2712
+1860,Florida,St Johns,3038
+1860,Florida,Santa Rosa,5480
+1860,Florida,Sumter,1549
+1860,Florida,Suwannee,2303
+1860,Florida,Taylor,1384
+1860,Florida,Volusia,1158
+1860,Florida,Wakulla,2839
+1860,Florida,Walton,3037
+1860,Florida,Washington,2154
+1860,Georgia,Appling,4190
+1860,Georgia,Baker,4985
+1860,Georgia,Baldwin,9078
+1860,Georgia,Banks,4707
+1860,Georgia,Berrien,3475
+1860,Georgia,Bibb,16291
+1860,Georgia,Brooks,6356
+1860,Georgia,Bryan,4015
+1860,Georgia,Bulloch,5668
+1860,Georgia,Burke,17165
+1860,Georgia,Butts,6455
+1860,Georgia,Calhoun,4913
+1860,Georgia,Camden,5420
+1860,Georgia,Campbell,8301
+1860,Georgia,Carroll,11991
+1860,Georgia,Cass,15724
+1860,Georgia,Catoosa,5082
+1860,Georgia,Charlton,1780
+1860,Georgia,Chatham,31043
+1860,Georgia,Chattahoochee,5797
+1860,Georgia,Chattooga,7165
+1860,Georgia,Cherokee,11291
+1860,Georgia,Clarke,11218
+1860,Georgia,Clay,4893
+1860,Georgia,Clayton,4466
+1860,Georgia,Clinch,3063
+1860,Georgia,Cobb,14242
+1860,Georgia,Coffee,2879
+1860,Georgia,Colquitt,1316
+1860,Georgia,Columbia,11860
+1860,Georgia,Coweta,14703
+1860,Georgia,Crawford,7693
+1860,Georgia,Dade,3069
+1860,Georgia,Dawson,3856
+1860,Georgia,Decatur,11922
+1860,Georgia,DeKalb,7806
+1860,Georgia,Dooly,8917
+1860,Georgia,Dougherty,8295
+1860,Georgia,Early,6149
+1860,Georgia,Echols,1491
+1860,Georgia,Effingham,4755
+1860,Georgia,Elbert,10433
+1860,Georgia,Emanuel,5081
+1860,Georgia,Fannin,5139
+1860,Georgia,Fayette,7047
+1860,Georgia,Floyd,15195
+1860,Georgia,Forsyth,7749
+1860,Georgia,Franklin,7393
+1860,Georgia,Fulton,14427
+1860,Georgia,Gilmer,6724
+1860,Georgia,Glascock,2437
+1860,Georgia,Glynn,3889
+1860,Georgia,Gordon,10146
+1860,Georgia,Greene,12652
+1860,Georgia,Gwinnett,12940
+1860,Georgia,Habersham,5966
+1860,Georgia,Hall,9366
+1860,Georgia,Hancock,12044
+1860,Georgia,Haralson,3039
+1860,Georgia,Harris,13736
+1860,Georgia,Hart,6137
+1860,Georgia,Heard,7805
+1860,Georgia,Henry,10702
+1860,Georgia,Houston,15611
+1860,Georgia,Irwin,1699
+1860,Georgia,Jackson,10605
+1860,Georgia,Jasper,10743
+1860,Georgia,Jefferson,10219
+1860,Georgia,Johnson,2919
+1860,Georgia,Jones,9107
+1860,Georgia,Laurens,6998
+1860,Georgia,Lee,7196
+1860,Georgia,Liberty,8367
+1860,Georgia,Lincoln,5466
+1860,Georgia,Lowndes,5249
+1860,Georgia,Lumpkin,4626
+1860,Georgia,McIntosh,5546
+1860,Georgia,Macon,8449
+1860,Georgia,Madison,5933
+1860,Georgia,Marion,7390
+1860,Georgia,Meriwether,15330
+1860,Georgia,Miller,1791
+1860,Georgia,Milton,4602
+1860,Georgia,Mitchell,4308
+1860,Georgia,Monroe,15953
+1860,Georgia,Montgomery,2997
+1860,Georgia,Morgan,9997
+1860,Georgia,Murray,7083
+1860,Georgia,Muscogee,16584
+1860,Georgia,Newton,14320
+1860,Georgia,Oglethorpe,11549
+1860,Georgia,Paulding,7038
+1860,Georgia,Pickens,4951
+1860,Georgia,Pierce,1973
+1860,Georgia,Pike,10078
+1860,Georgia,Polk,6295
+1860,Georgia,Pulaski,8744
+1860,Georgia,Putnam,10125
+1860,Georgia,Quitman,3499
+1860,Georgia,Rabun,3271
+1860,Georgia,Randolph,9571
+1860,Georgia,Richmond,21284
+1860,Georgia,Schley,4633
+1860,Georgia,Screven,8274
+1860,Georgia,Spalding,8699
+1860,Georgia,Stewart,13422
+1860,Georgia,Sumter,9428
+1860,Georgia,Talbot,13616
+1860,Georgia,Taliaferro,4583
+1860,Georgia,Tattnall,4352
+1860,Georgia,Taylor,5998
+1860,Georgia,Telfair,2713
+1860,Georgia,Terrell,6232
+1860,Georgia,Thomas,10766
+1860,Georgia,Towns,2459
+1860,Georgia,Troup,16262
+1860,Georgia,Twiggs,8320
+1860,Georgia,Union,4413
+1860,Georgia,Upson,9910
+1860,Georgia,Walker,10082
+1860,Georgia,Walton,11074
+1860,Georgia,Ware,2200
+1860,Georgia,Warren,9820
+1860,Georgia,Washington,12698
+1860,Georgia,Wayne,2268
+1860,Georgia,Webster,5030
+1860,Georgia,White,3315
+1860,Georgia,Whitfield,10047
+1860,Georgia,Wilcox,2115
+1860,Georgia,Wilkes,11420
+1860,Georgia,Wilkinson,9376
+1860,Georgia,Worth,2763
+1860,Illinois,Adams,41323
+1860,Illinois,Alexander,4707
+1860,Illinois,Bond,9815
+1860,Illinois,Boone,11678
+1860,Illinois,Brown,9938
+1860,Illinois,Bureau,26426
+1860,Illinois,Calhoun,5144
+1860,Illinois,Carroll,11733
+1860,Illinois,Cass,11325
+1860,Illinois,Champaign,14629
+1860,Illinois,Christian,10492
+1860,Illinois,Clark,14987
+1860,Illinois,Clay,9336
+1860,Illinois,Clinton,10941
+1860,Illinois,Coles,14203
+1860,Illinois,Cook,144954
+1860,Illinois,Crawford,11551
+1860,Illinois,Cumberland,8311
+1860,Illinois,DeKalb,19086
+1860,Illinois,De Witt,10820
+1860,Illinois,Douglas,7140
+1860,Illinois,Dupage,14701
+1860,Illinois,Edgar,16925
+1860,Illinois,Edwards,5454
+1860,Illinois,Effingham,7816
+1860,Illinois,Fayette,11189
+1860,Illinois,Ford,1979
+1860,Illinois,Franklin,9393
+1860,Illinois,Fulton,33338
+1860,Illinois,Gallatin,8055
+1860,Illinois,Greene,16093
+1860,Illinois,Grundy,10379
+1860,Illinois,Hamilton,9915
+1860,Illinois,Hancock,29061
+1860,Illinois,Hardin,3759
+1860,Illinois,Henderson,9501
+1860,Illinois,Henry,20660
+1860,Illinois,Iroquois,12325
+1860,Illinois,Jackson,9589
+1860,Illinois,Jasper,8364
+1860,Illinois,Jefferson,12965
+1860,Illinois,Jersey,12051
+1860,Illinois,Jo Daviess,27325
+1860,Illinois,Johnson,9342
+1860,Illinois,Kane,30062
+1860,Illinois,Kankakee,15412
+1860,Illinois,Kendall,13074
+1860,Illinois,Knox,28663
+1860,Illinois,Lake,18257
+1860,Illinois,La Salle,48332
+1860,Illinois,Lawrence,9214
+1860,Illinois,Lee,17651
+1860,Illinois,Livingston,11637
+1860,Illinois,Logan,14272
+1860,Illinois,McDonough,20069
+1860,Illinois,McHenry,22089
+1860,Illinois,McLean,28772
+1860,Illinois,Macon,13738
+1860,Illinois,Macoupin,24602
+1860,Illinois,Madison,31251
+1860,Illinois,Marion,12739
+1860,Illinois,Marshall,13437
+1860,Illinois,Mason,10931
+1860,Illinois,Massac,6213
+1860,Illinois,Menard,9584
+1860,Illinois,Mercer,15042
+1860,Illinois,Monroe,12832
+1860,Illinois,Montgomery,13979
+1860,Illinois,Morgan,22112
+1860,Illinois,Moultrie,6385
+1860,Illinois,Ogle,22888
+1860,Illinois,Peoria,36601
+1860,Illinois,Perry,9552
+1860,Illinois,Piatt,6127
+1860,Illinois,Pike,27249
+1860,Illinois,Pope,6742
+1860,Illinois,Pulaski,3943
+1860,Illinois,Putnam,5587
+1860,Illinois,Randolph,17205
+1860,Illinois,Richland,9711
+1860,Illinois,Rock Island,21005
+1860,Illinois,St Clair,37694
+1860,Illinois,Saline,9331
+1860,Illinois,Sangamon,32274
+1860,Illinois,Schuyler,14684
+1860,Illinois,Scott,9069
+1860,Illinois,Shelby,14613
+1860,Illinois,Stark,9004
+1860,Illinois,Stephenson,25112
+1860,Illinois,Tazewell,21470
+1860,Illinois,Union,11181
+1860,Illinois,Vermilion,19800
+1860,Illinois,Wabash,7313
+1860,Illinois,Warren,18336
+1860,Illinois,Washington,13731
+1860,Illinois,Wayne,12223
+1860,Illinois,White,12403
+1860,Illinois,Whiteside,18737
+1860,Illinois,Will,29321
+1860,Illinois,Williamson,12205
+1860,Illinois,Winnebago,24491
+1860,Illinois,Woodford,13282
+1860,Indiana,Adams,9252
+1860,Indiana,Allen,29328
+1860,Indiana,Bartholomew,17865
+1860,Indiana,Benton,2809
+1860,Indiana,Blackford,4122
+1860,Indiana,Boone,16753
+1860,Indiana,Brown,6507
+1860,Indiana,Carroll,13489
+1860,Indiana,Cass,16843
+1860,Indiana,Clark,20502
+1860,Indiana,Clay,12161
+1860,Indiana,Clinton,14505
+1860,Indiana,Crawford,8226
+1860,Indiana,Daviess,13323
+1860,Indiana,Dearborn,24406
+1860,Indiana,Decatur,17294
+1860,Indiana,DeKalb,13880
+1860,Indiana,Delaware,15753
+1860,Indiana,Dubois,10394
+1860,Indiana,Elkhart,20986
+1860,Indiana,Fayette,10225
+1860,Indiana,Floyd,20183
+1860,Indiana,Fountain,15566
+1860,Indiana,Franklin,19549
+1860,Indiana,Fulton,9422
+1860,Indiana,Gibson,14532
+1860,Indiana,Grant,15797
+1860,Indiana,Greene,16041
+1860,Indiana,Hamilton,17310
+1860,Indiana,Hancock,12802
+1860,Indiana,Harrison,18521
+1860,Indiana,Hendricks,16953
+1860,Indiana,Henry,20119
+1860,Indiana,Howard,12524
+1860,Indiana,Huntington,14867
+1860,Indiana,Jackson,16286
+1860,Indiana,Jasper,4291
+1860,Indiana,Jay,11399
+1860,Indiana,Jefferson,25036
+1860,Indiana,Jennings,14749
+1860,Indiana,Johnson,14854
+1860,Indiana,Knox,16056
+1860,Indiana,Kosciusko,17418
+1860,Indiana,Lagrange,11366
+1860,Indiana,Lake,9145
+1860,Indiana,LaPorte,22919
+1860,Indiana,Lawrence,13692
+1860,Indiana,Madison,16518
+1860,Indiana,Marion,39855
+1860,Indiana,Marshall,12722
+1860,Indiana,Martin,8975
+1860,Indiana,Miami,16851
+1860,Indiana,Monroe,12847
+1860,Indiana,Montgomery,20888
+1860,Indiana,Morgan,16110
+1860,Indiana,Newton,2360
+1860,Indiana,Noble,14915
+1860,Indiana,Ohio,5462
+1860,Indiana,Orange,12076
+1860,Indiana,Owen,14376
+1860,Indiana,Parke,15538
+1860,Indiana,Perry,11847
+1860,Indiana,Pike,10078
+1860,Indiana,Porter,10313
+1860,Indiana,Posey,16167
+1860,Indiana,Pulaski,5711
+1860,Indiana,Putnam,20681
+1860,Indiana,Randolph,18997
+1860,Indiana,Ripley,19054
+1860,Indiana,Rush,16193
+1860,Indiana,St Joseph,18455
+1860,Indiana,Scott,7303
+1860,Indiana,Shelby,19569
+1860,Indiana,Spencer,14556
+1860,Indiana,Starke,2195
+1860,Indiana,Steuben,10374
+1860,Indiana,Sullivan,15064
+1860,Indiana,Switzerland,12698
+1860,Indiana,Tippecanoe,25726
+1860,Indiana,Tipton,8170
+1860,Indiana,Union,7109
+1860,Indiana,Vanderburgh,20552
+1860,Indiana,Vermillion,9422
+1860,Indiana,Vigo,22517
+1860,Indiana,Wabash,17547
+1860,Indiana,Warren,10057
+1860,Indiana,Warrick,13261
+1860,Indiana,Washington,17909
+1860,Indiana,Wayne,29558
+1860,Indiana,Wells,10844
+1860,Indiana,White,8258
+1860,Indiana,Whitley,10730
+1860,Iowa,Adair,984
+1860,Iowa,Adams,1533
+1860,Iowa,Allamakee,12237
+1860,Iowa,Appanoose,11931
+1860,Iowa,Audubon,454
+1860,Iowa,Benton,8496
+1860,Iowa,Black Hawk,8244
+1860,Iowa,Boone,4232
+1860,Iowa,Bremer,4915
+1860,Iowa,Buchanan,7906
+1860,Iowa,Buena Vista,57
+1860,Iowa,Buncombe,
+1860,Iowa,Butler,3724
+1860,Iowa,Calhoun,147
+1860,Iowa,Carroll,281
+1860,Iowa,Cass,1612
+1860,Iowa,Cedar,12949
+1860,Iowa,Cerro Gordo,940
+1860,Iowa,Cherokee,58
+1860,Iowa,Chickasaw,4336
+1860,Iowa,Clarke,5427
+1860,Iowa,Clay,52
+1860,Iowa,Clayton,20728
+1860,Iowa,Clinton,18938
+1860,Iowa,Crawford,383
+1860,Iowa,Dallas,5244
+1860,Iowa,Davis,13764
+1860,Iowa,Decatur,8677
+1860,Iowa,Delaware,11024
+1860,Iowa,Des Moines,19611
+1860,Iowa,Dickinson,180
+1860,Iowa,Dubuque,31164
+1860,Iowa,Emmet,105
+1860,Iowa,Fayette,12073
+1860,Iowa,Floyd,3744
+1860,Iowa,Franklin,1309
+1860,Iowa,Fremont,5074
+1860,Iowa,Greene,1374
+1860,Iowa,Grundy,793
+1860,Iowa,Guthrie,3058
+1860,Iowa,Hamilton,1699
+1860,Iowa,Hancock,179
+1860,Iowa,Hardin,5440
+1860,Iowa,Harrison,3621
+1860,Iowa,Henry,18701
+1860,Iowa,Howard,3168
+1860,Iowa,Humboldt,332
+1860,Iowa,Ida,43
+1860,Iowa,Iowa,8029
+1860,Iowa,Jackson,18493
+1860,Iowa,Jasper,9883
+1860,Iowa,Jefferson,15038
+1860,Iowa,Johnson,17573
+1860,Iowa,Jones,13306
+1860,Iowa,Keokuk,13271
+1860,Iowa,Kossuth,416
+1860,Iowa,Lee,29232
+1860,Iowa,Linn,18947
+1860,Iowa,Louisa,10370
+1860,Iowa,Lucas,5766
+1860,Iowa,Madison,7339
+1860,Iowa,Mahaska,14816
+1860,Iowa,Marion,16813
+1860,Iowa,Marshall,6015
+1860,Iowa,Mills,4481
+1860,Iowa,Mitchell,3409
+1860,Iowa,Monona,832
+1860,Iowa,Monroe,8612
+1860,Iowa,Montgomery,1256
+1860,Iowa,Muscatine,16444
+1860,Iowa,O Brien,8
+1860,Iowa,Osceola,
+1860,Iowa,Page,4419
+1860,Iowa,Palo Alto,132
+1860,Iowa,Plymouth,148
+1860,Iowa,Pocahontas,103
+1860,Iowa,Polk,11625
+1860,Iowa,Pottawattamie,4968
+1860,Iowa,Poweshiek,5668
+1860,Iowa,Ringgold,2923
+1860,Iowa,Sac,246
+1860,Iowa,Scott,25959
+1860,Iowa,Shelby,818
+1860,Iowa,Sioux,10
+1860,Iowa,Story,4051
+1860,Iowa,Tama,5285
+1860,Iowa,Taylor,3590
+1860,Iowa,Union,2012
+1860,Iowa,Van Buren,17081
+1860,Iowa,Wapello,14518
+1860,Iowa,Warren,10281
+1860,Iowa,Washington,14235
+1860,Iowa,Wayne,6409
+1860,Iowa,Webster,2504
+1860,Iowa,Winnebago,168
+1860,Iowa,Winneshiek,13942
+1860,Iowa,Woodbury,1119
+1860,Iowa,Worth,756
+1860,Iowa,Wright,653
+1860,Kansas Territory,Allen,3082
+1860,Kansas Territory,Anderson,2400
+1860,Kansas Territory,Arapahoe,34277
+1860,Kansas Territory,Atchison,7729
+1860,Kansas Territory,Bourbon,6101
+1860,Kansas Territory,Breckinridge,3197
+1860,Kansas Territory,Brown,2607
+1860,Kansas Territory,Butler,437
+1860,Kansas Territory,Chase,808
+1860,Kansas Territory,Clay,163
+1860,Kansas Territory,Coffey,2842
+1860,Kansas Territory,Davis,1163
+1860,Kansas Territory,Dickinson,378
+1860,Kansas Territory,Doniphan,8083
+1860,Kansas Territory,Dorn,88
+1860,Kansas Territory,Douglas,8637
+1860,Kansas Territory,Franklin,3030
+1860,Kansas Territory,Godfrey,19
+1860,Kansas Territory,Greenwood,759
+1860,Kansas Territory,Hunter,158
+1860,Kansas Territory,Jackson,1936
+1860,Kansas Territory,Jefferson,4459
+1860,Kansas Territory,Johnson,4364
+1860,Kansas Territory,Leavenworth,12606
+1860,Kansas Territory,Linn,6336
+1860,Kansas Territory,McGhee,1501
+1860,Kansas Territory,Madison,636
+1860,Kansas Territory,Marion,74
+1860,Kansas Territory,Marshall,2280
+1860,Kansas Territory,Miami/Lykins,4980
+1860,Kansas Territory,Morris,770
+1860,Kansas Territory,Nemaha,2436
+1860,Kansas Territory,Osage,1113
+1860,Kansas Territory,Otoe,238
+1860,Kansas Territory,Pottawatomie,1529
+1860,Kansas Territory,Riley,1224
+1860,Kansas Territory,Shawnee,3513
+1860,Kansas Territory,Wabaunsee,1023
+1860,Kansas Territory,Washington,383
+1860,Kansas Territory,Wilson,27
+1860,Kansas Territory,Woodson,1488
+1860,Kansas Territory,Wyandotte,2609
+1860,Kentucky,Adair,9509
+1860,Kentucky,Allen,9187
+1860,Kentucky,Anderson,7404
+1860,Kentucky,Ballard,8692
+1860,Kentucky,Barren,16665
+1860,Kentucky,Bath,12113
+1860,Kentucky,Boone,11196
+1860,Kentucky,Bourbon,14860
+1860,Kentucky,Boyd,6044
+1860,Kentucky,Boyle,9304
+1860,Kentucky,Bracken,11021
+1860,Kentucky,Breathitt,4980
+1860,Kentucky,Breckinridge,13236
+1860,Kentucky,Bullitt,7289
+1860,Kentucky,Butler,7927
+1860,Kentucky,Caldwell,9318
+1860,Kentucky,Calloway,9915
+1860,Kentucky,Campbell,20909
+1860,Kentucky,Carroll,6578
+1860,Kentucky,Carter,8516
+1860,Kentucky,Casey,6466
+1860,Kentucky,Christian,21627
+1860,Kentucky,Clark,11484
+1860,Kentucky,Clay,6652
+1860,Kentucky,Clinton,5781
+1860,Kentucky,Crittenden,8796
+1860,Kentucky,Cumberland,7340
+1860,Kentucky,Daviess,15549
+1860,Kentucky,Edmonson,4645
+1860,Kentucky,Estill,6886
+1860,Kentucky,Fayette,22599
+1860,Kentucky,Fleming,12489
+1860,Kentucky,Floyd,6388
+1860,Kentucky,Franklin,12694
+1860,Kentucky,Fulton,5317
+1860,Kentucky,Gallatin,5056
+1860,Kentucky,Garrard,10531
+1860,Kentucky,Grant,8356
+1860,Kentucky,Graves,16233
+1860,Kentucky,Grayson,7982
+1860,Kentucky,Green,8806
+1860,Kentucky,Greenup,8760
+1860,Kentucky,Hancock,6213
+1860,Kentucky,Hardin,15189
+1860,Kentucky,Harlan,5494
+1860,Kentucky,Harrison,13779
+1860,Kentucky,Hart,10348
+1860,Kentucky,Henderson,14262
+1860,Kentucky,Henry,11949
+1860,Kentucky,Hickman,7008
+1860,Kentucky,Hopkins,11875
+1860,Kentucky,Jackson,3087
+1860,Kentucky,Jefferson,89404
+1860,Kentucky,Jessamine,9465
+1860,Kentucky,Johnson,5306
+1860,Kentucky,Kenton,25467
+1860,Kentucky,Knox,7707
+1860,Kentucky,Larue,6891
+1860,Kentucky,Laurel,5488
+1860,Kentucky,Lawrence,7601
+1860,Kentucky,Letcher,3904
+1860,Kentucky,Lewis,8361
+1860,Kentucky,Lincoln,10647
+1860,Kentucky,Livingston,7213
+1860,Kentucky,Logan,19021
+1860,Kentucky,Lyon,5307
+1860,Kentucky,McCracken,10360
+1860,Kentucky,McLean,6144
+1860,Kentucky,Madison,17207
+1860,Kentucky,Magoffin,3485
+1860,Kentucky,Marion,12593
+1860,Kentucky,Marshall,6982
+1860,Kentucky,Mason,18222
+1860,Kentucky,Meade,8898
+1860,Kentucky,Mercer,13701
+1860,Kentucky,Metcalfe,6745
+1860,Kentucky,Monroe,8551
+1860,Kentucky,Montgomery,7859
+1860,Kentucky,Morgan,9237
+1860,Kentucky,Muhlenberg,10725
+1860,Kentucky,Nelson,15799
+1860,Kentucky,Nicholas,11030
+1860,Kentucky,Ohio,12209
+1860,Kentucky,Oldham,7283
+1860,Kentucky,Owen,12719
+1860,Kentucky,Owsley,5335
+1860,Kentucky,Pendleton,10443
+1860,Kentucky,Perry,3950
+1860,Kentucky,Pike,7384
+1860,Kentucky,Powell,2257
+1860,Kentucky,Pulaski,17201
+1860,Kentucky,Rockcastle,5343
+1860,Kentucky,Rowan,2282
+1860,Kentucky,Russell,6024
+1860,Kentucky,Scott,14417
+1860,Kentucky,Shelby,16433
+1860,Kentucky,Simpson,8146
+1860,Kentucky,Spencer,6188
+1860,Kentucky,Taylor,7481
+1860,Kentucky,Todd,11575
+1860,Kentucky,Trigg,11051
+1860,Kentucky,Trimble,5880
+1860,Kentucky,Union,12791
+1860,Kentucky,Warren,17320
+1860,Kentucky,Washington,11575
+1860,Kentucky,Wayne,10259
+1860,Kentucky,Webster,7533
+1860,Kentucky,Whitley,7762
+1860,Kentucky,Woodford,11219
+1860,Louisiana,Ascension,11484
+1860,Louisiana,Assumption,15379
+1860,Louisiana,Avoyelles,13167
+1860,Louisiana,Bienville,11000
+1860,Louisiana,Bossier,11348
+1860,Louisiana,Caddo,12140
+1860,Louisiana,Calcasieu,5928
+1860,Louisiana,Caldwell,4833
+1860,Louisiana,Carroll,18052
+1860,Louisiana,Catahoula,11651
+1860,Louisiana,Claiborne,16848
+1860,Louisiana,Concordia,13805
+1860,Louisiana,De Soto,13298
+1860,Louisiana,East Baton Rouge,16046
+1860,Louisiana,East Feliciana,14697
+1860,Louisiana,Franklin,6162
+1860,Louisiana,Iberville,14661
+1860,Louisiana,Jackson,9465
+1860,Louisiana,Jefferson,15372
+1860,Louisiana,Lafayette,9003
+1860,Louisiana,Lafourche,14044
+1860,Louisiana,Livingston,4431
+1860,Louisiana,Madison,14133
+1860,Louisiana,Morehouse,10357
+1860,Louisiana,Natchitoches,16699
+1860,Louisiana,Orleans,174491
+1860,Louisiana,Ouachita,4727
+1860,Louisiana,Plaquemines,8494
+1860,Louisiana,Pointe Coupee,17718
+1860,Louisiana,Rapides,25360
+1860,Louisiana,Sabine,5828
+1860,Louisiana,St Bernard,4076
+1860,Louisiana,St Charles,5297
+1860,Louisiana,St Helena,7130
+1860,Louisiana,St James,11499
+1860,Louisiana,St John The Baptist,7930
+1860,Louisiana,St Landry,23104
+1860,Louisiana,St Martin,12674
+1860,Louisiana,St Mary,16816
+1860,Louisiana,St Tammany,5406
+1860,Louisiana,Tensas,16078
+1860,Louisiana,Terrebonne,12091
+1860,Louisiana,Union,10389
+1860,Louisiana,Vermilion,4324
+1860,Louisiana,Washington,4708
+1860,Louisiana,West Baton Rouge,7312
+1860,Louisiana,West Feliciana,11671
+1860,Louisiana,Winn,6876
+1860,Maine,Androscoggin,29726
+1860,Maine,Aroostook,22479
+1860,Maine,Cumberland,75591
+1860,Maine,Franklin,20403
+1860,Maine,Hancock,37757
+1860,Maine,Kennebec,55655
+1860,Maine,Knox,32716
+1860,Maine,Lincoln,27860
+1860,Maine,Oxford,36698
+1860,Maine,Penobscot,72731
+1860,Maine,Piscataquis,15032
+1860,Maine,Sagadahoc,21790
+1860,Maine,Somerset,36753
+1860,Maine,Waldo,38447
+1860,Maine,Washington,42534
+1860,Maine,York,62107
+1860,Maryland,Allegany,28348
+1860,Maryland,Anne Arundel,23900
+1860,Maryland,Baltimore,54135
+1860,Maryland,Calvert,10447
+1860,Maryland,Caroline,11129
+1860,Maryland,Carroll,24533
+1860,Maryland,Cecil,23862
+1860,Maryland,Charles,16517
+1860,Maryland,Dorchester,20461
+1860,Maryland,Frederick,46591
+1860,Maryland,Harford,23415
+1860,Maryland,Howard,13338
+1860,Maryland,Kent,13267
+1860,Maryland,Montgomery,18322
+1860,Maryland,Prince Georges,23327
+1860,Maryland,Queen Anne's,15961
+1860,Maryland,St Mary's,15213
+1860,Maryland,Somerset,24992
+1860,Maryland,Talbot,14795
+1860,Maryland,Washington,31417
+1860,Maryland,Worcester,20661
+1860,Maryland,Baltimore City,212418
+1860,Massachusetts,Barnstable,35990
+1860,Massachusetts,Berkshire,55120
+1860,Massachusetts,Bristol,93794
+1860,Massachusetts,Dukes,4403
+1860,Massachusetts,Essex,165611
+1860,Massachusetts,Franklin,31434
+1860,Massachusetts,Hampden,57366
+1860,Massachusetts,Hampshire,37823
+1860,Massachusetts,Middlesex,216354
+1860,Massachusetts,Nantucket,6094
+1860,Massachusetts,Norfolk,109950
+1860,Massachusetts,Plymouth,64768
+1860,Massachusetts,Suffolk,192700
+1860,Massachusetts,Worcester,159659
+1860,Michigan,Alcona,185
+1860,Michigan,Allegan,16087
+1860,Michigan,Alpena,290
+1860,Michigan,Antrim,179
+1860,Michigan,Barry,13858
+1860,Michigan,Bay,3164
+1860,Michigan,Berrien,22378
+1860,Michigan,Branch,20981
+1860,Michigan,Calhoun,29564
+1860,Michigan,Cass,17721
+1860,Michigan,Cheboygan,517
+1860,Michigan,Chippewa,1603
+1860,Michigan,Clinton,13916
+1860,Michigan,Delta,1172
+1860,Michigan,Eaton,16476
+1860,Michigan,Emmet,1149
+1860,Michigan,Genesee,22498
+1860,Michigan,Gladwin,14
+1860,Michigan,Grand Traverse,1286
+1860,Michigan,Gratiot,4042
+1860,Michigan,Hillsdale,25675
+1860,Michigan,Houghton,9234
+1860,Michigan,Huron,3165
+1860,Michigan,Ingham,17435
+1860,Michigan,Ionia,16682
+1860,Michigan,Iosco,175
+1860,Michigan,Isabella,1443
+1860,Michigan,Jackson,26671
+1860,Michigan,Kalamazoo,24646
+1860,Michigan,Kent,30716
+1860,Michigan,Lapeer,14754
+1860,Michigan,Leelanau,2158
+1860,Michigan,Lenawee,38112
+1860,Michigan,Livingston,16851
+1860,Michigan,Macomb,22843
+1860,Michigan,Manistee,975
+1860,Michigan,Manitou,1042
+1860,Michigan,Marquette,2821
+1860,Michigan,Mason,831
+1860,Michigan,Mecosta,970
+1860,Michigan,Michilimackinac,1938
+1860,Michigan,Midland,787
+1860,Michigan,Monroe,21593
+1860,Michigan,Montcalm,3968
+1860,Michigan,Muskegon,3947
+1860,Michigan,Newaygo,2760
+1860,Michigan,Oakland,38261
+1860,Michigan,Oceana,1816
+1860,Michigan,Ontonagon,4568
+1860,Michigan,Osceola,27
+1860,Michigan,Ottawa,13215
+1860,Michigan,Presque Isle,26
+1860,Michigan,Saginaw,12693
+1860,Michigan,St Clair,26604
+1860,Michigan,St Joseph,21262
+1860,Michigan,Sanilac,7599
+1860,Michigan,Schoolcraft,78
+1860,Michigan,Shiawassee,12349
+1860,Michigan,Tuscola,4886
+1860,Michigan,Van Buren,15224
+1860,Michigan,Washtenaw,35686
+1860,Michigan,Wayne,75547
+1860,Minnesota,Aitkin,2
+1860,Minnesota,Anoka,2106
+1860,Minnesota,Becker,386
+1860,Minnesota,Benton,627
+1860,Minnesota,Blue Earth,4803
+1860,Minnesota,Breckinridge,79
+1860,Minnesota,Brown,2339
+1860,Minnesota,Buchanan,26
+1860,Minnesota,Carlton,51
+1860,Minnesota,Carver,5106
+1860,Minnesota,Cass,150
+1860,Minnesota,Chisago,1743
+1860,Minnesota,Cottonwood,12
+1860,Minnesota,Crow Wing,269
+1860,Minnesota,Dakota,9093
+1860,Minnesota,Dodge,3797
+1860,Minnesota,Douglas,195
+1860,Minnesota,Faribault,1335
+1860,Minnesota,Fillmore,13542
+1860,Minnesota,Freeborn,3367
+1860,Minnesota,Goodhue,8977
+1860,Minnesota,Hennepin,12849
+1860,Minnesota,Houston,6645
+1860,Minnesota,Isanti,284
+1860,Minnesota,Itasca,51
+1860,Minnesota,Jackson,181
+1860,Minnesota,Kanabec,30
+1860,Minnesota,Kandiyohi,76
+1860,Minnesota,Lake,248
+1860,Minnesota,Le Sueur,5318
+1860,Minnesota,McLeod,1286
+1860,Minnesota,Manomin,136
+1860,Minnesota,Martin,151
+1860,Minnesota,Meeker,928
+1860,Minnesota,Mille Lacs,73
+1860,Minnesota,Monongalia,350
+1860,Minnesota,Morrison,618
+1860,Minnesota,Mower,3217
+1860,Minnesota,Murray,29
+1860,Minnesota,Nicollet,3773
+1860,Minnesota,Nobles,35
+1860,Minnesota,Olmsted,9524
+1860,Minnesota,Otter Tail,240
+1860,Minnesota,Pembina,1612
+1860,Minnesota,Pierce,11
+1860,Minnesota,Pine,92
+1860,Minnesota,Pipestone (old),23
+1860,Minnesota,Polk,240
+1860,Minnesota,Ramsey,12150
+1860,Minnesota,Renville,245
+1860,Minnesota,Rice,7543
+1860,Minnesota,St Louis,406
+1860,Minnesota,Scott,4595
+1860,Minnesota,Sherburne,723
+1860,Minnesota,Sibley,3609
+1860,Minnesota,Stearns,4505
+1860,Minnesota,Steele,2863
+1860,Minnesota,Todd,430
+1860,Minnesota,Toombs,40
+1860,Minnesota,Wabasha,7228
+1860,Minnesota,Waseca,2601
+1860,Minnesota,Washington,6123
+1860,Minnesota,Winona,9208
+1860,Minnesota,Wright,3729
+1860,Mississippi,Adams,20165
+1860,Mississippi,Amite,12336
+1860,Mississippi,Attala,14169
+1860,Mississippi,Bolivar,10471
+1860,Mississippi,Calhoun,9518
+1860,Mississippi,Carroll,22035
+1860,Mississippi,Chickasaw,16426
+1860,Mississippi,Choctaw,15722
+1860,Mississippi,Claiborne,15679
+1860,Mississippi,Clarke,10771
+1860,Mississippi,Coahoma,6606
+1860,Mississippi,Copiah,15398
+1860,Mississippi,Covington,4408
+1860,Mississippi,DeSoto,23336
+1860,Mississippi,Franklin,8265
+1860,Mississippi,Greene,2232
+1860,Mississippi,Hancock,3139
+1860,Mississippi,Harrison,4819
+1860,Mississippi,Hinds,31339
+1860,Mississippi,Holmes,17791
+1860,Mississippi,Issaquena,7831
+1860,Mississippi,Itawamba,17695
+1860,Mississippi,Jackson,4122
+1860,Mississippi,Jasper,11007
+1860,Mississippi,Jefferson,15349
+1860,Mississippi,Jones,3323
+1860,Mississippi,Kemper,11682
+1860,Mississippi,Lafayette,16125
+1860,Mississippi,Lauderdale,13313
+1860,Mississippi,Lawrence,9213
+1860,Mississippi,Leake,9324
+1860,Mississippi,Lowndes,23625
+1860,Mississippi,Madison,23382
+1860,Mississippi,Marion,4686
+1860,Mississippi,Marshall,28823
+1860,Mississippi,Monroe,21283
+1860,Mississippi,Neshoba,8343
+1860,Mississippi,Newton,9661
+1860,Mississippi,Noxubee,20667
+1860,Mississippi,Oktibbeha,12977
+1860,Mississippi,Panola,13794
+1860,Mississippi,Perry,2606
+1860,Mississippi,Pike,11135
+1860,Mississippi,Pontotoc,22113
+1860,Mississippi,Rankin,13635
+1860,Mississippi,Scott,8139
+1860,Mississippi,Simpson,6080
+1860,Mississippi,Smith,7638
+1860,Mississippi,Sunflower,5019
+1860,Mississippi,Tallahatchie,7890
+1860,Mississippi,Tippah,22550
+1860,Mississippi,Tishomingo,24149
+1860,Mississippi,Tunica,4366
+1860,Mississippi,Warren,20696
+1860,Mississippi,Washington,15679
+1860,Mississippi,Wayne,3691
+1860,Mississippi,Wilkinson,15933
+1860,Mississippi,Winston,9811
+1860,Mississippi,Yalobusha,16952
+1860,Mississippi,Yazoo,22373
+1860,Missouri,Adair,8531
+1860,Missouri,Andrew,11850
+1860,Missouri,Atchison,4649
+1860,Missouri,Audrain,8075
+1860,Missouri,Barry,7995
+1860,Missouri,Barton,1817
+1860,Missouri,Bates,7215
+1860,Missouri,Benton,9072
+1860,Missouri,Bollinger,7371
+1860,Missouri,Boone,19486
+1860,Missouri,Buchanan,23861
+1860,Missouri,Butler,2891
+1860,Missouri,Caldwell,5034
+1860,Missouri,Callaway,17449
+1860,Missouri,Camden,4975
+1860,Missouri,Cape Girardeau,15547
+1860,Missouri,Carroll,9763
+1860,Missouri,Carter,1235
+1860,Missouri,Cass,9794
+1860,Missouri,Cedar,6637
+1860,Missouri,Chariton,12562
+1860,Missouri,Christian,5491
+1860,Missouri,Clark,11684
+1860,Missouri,Clay,13023
+1860,Missouri,Clinton,7848
+1860,Missouri,Cole,9697
+1860,Missouri,Cooper,17356
+1860,Missouri,Crawford,5823
+1860,Missouri,Dade,7072
+1860,Missouri,Dallas,5892
+1860,Missouri,Daviess,9606
+1860,Missouri,DeKalb,5224
+1860,Missouri,Dent,5654
+1860,Missouri,Douglas,2414
+1860,Missouri,Dunklin,5026
+1860,Missouri,Franklin,18085
+1860,Missouri,Gasconade,8727
+1860,Missouri,Gentry,11980
+1860,Missouri,Greene,13186
+1860,Missouri,Grundy,7887
+1860,Missouri,Harrison,10626
+1860,Missouri,Henry,9866
+1860,Missouri,Hickory,4705
+1860,Missouri,Holt,6550
+1860,Missouri,Howard,15946
+1860,Missouri,Howell,3169
+1860,Missouri,Iron,5842
+1860,Missouri,Jackson,22913
+1860,Missouri,Jasper,6883
+1860,Missouri,Jefferson,10344
+1860,Missouri,Johnson,14644
+1860,Missouri,Knox,8727
+1860,Missouri,Laclede,5182
+1860,Missouri,Lafayette,20098
+1860,Missouri,Lawrence,8846
+1860,Missouri,Lewis,12286
+1860,Missouri,Lincoln,14210
+1860,Missouri,Linn,9112
+1860,Missouri,Livingston,7417
+1860,Missouri,McDonald,4038
+1860,Missouri,Macon,14346
+1860,Missouri,Madison,5664
+1860,Missouri,Maries,4901
+1860,Missouri,Marion,18838
+1860,Missouri,Mercer,9300
+1860,Missouri,Miller,6812
+1860,Missouri,Mississippi,4859
+1860,Missouri,Moniteau,10124
+1860,Missouri,Monroe,14785
+1860,Missouri,Montgomery,9718
+1860,Missouri,Morgan,8202
+1860,Missouri,New Madrid,5654
+1860,Missouri,Newton,9319
+1860,Missouri,Nodaway,5252
+1860,Missouri,Oregon,3009
+1860,Missouri,Osage,7879
+1860,Missouri,Ozark,2447
+1860,Missouri,Pemiscot,2962
+1860,Missouri,Perry,9128
+1860,Missouri,Pettis,9392
+1860,Missouri,Phelps,5714
+1860,Missouri,Pike,18417
+1860,Missouri,Platte,18350
+1860,Missouri,Polk,9995
+1860,Missouri,Pulaski,3835
+1860,Missouri,Putnam,9207
+1860,Missouri,Ralls,8592
+1860,Missouri,Randolph,11407
+1860,Missouri,Ray,14092
+1860,Missouri,Reynolds,3173
+1860,Missouri,Ripley,3747
+1860,Missouri,St Charles,16523
+1860,Missouri,St Clair,6812
+1860,Missouri,Ste Genevieve,8029
+1860,Missouri,St Francois,7249
+1860,Missouri,St Louis,190524
+1860,Missouri,Saline,14699
+1860,Missouri,Schuyler,6697
+1860,Missouri,Scotland,8873
+1860,Missouri,Scott,5247
+1860,Missouri,Shannon,2284
+1860,Missouri,Shelby,7301
+1860,Missouri,Stoddard,7877
+1860,Missouri,Stone,2400
+1860,Missouri,Sullivan,9198
+1860,Missouri,Taney,3576
+1860,Missouri,Texas,6067
+1860,Missouri,Vernon,4850
+1860,Missouri,Warren,8839
+1860,Missouri,Washington,9723
+1860,Missouri,Wayne,5629
+1860,Missouri,Webster,7099
+1860,Missouri,Wright,4508
+1860,Nebraska Territory,Buffalo,114
+1860,Nebraska Territory,Burt,388
+1860,Nebraska Territory,Butler,27
+1860,Nebraska Territory,Calhoun,41
+1860,Nebraska Territory,Cass,3369
+1860,Nebraska Territory,Cedar,246
+1860,Nebraska Territory,Clay,165
+1860,Nebraska Territory,Cuming,67
+1860,Nebraska Territory,Dakota,819
+1860,Nebraska Territory,Dawson,16
+1860,Nebraska Territory,Dixon,247
+1860,Nebraska Territory,Dodge,309
+1860,Nebraska Territory,Douglas,4328
+1860,Nebraska Territory,Gage,421
+1860,Nebraska Territory,Greene,16
+1860,Nebraska Territory,Hall,116
+1860,Nebraska Territory,Johnson/Johnston,528
+1860,Nebraska Territory,Jones,122
+1860,Nebraska Territory,Kearney,474
+1860,Nebraska Territory,Lancaster,153
+1860,Nebraska Territory,L'Eau Qui Court,152
+1860,Nebraska Territory,Merrick,109
+1860,Nebraska Territory,Nemaha,3139
+1860,Nebraska Territory,Nuckolls,22
+1860,Nebraska Territory,Otoe,4211
+1860,Nebraska Territory,Pawnee,882
+1860,Nebraska Territory,Platte-Madison [multi-county reporting area],782
+1860,Nebraska Territory,Polk,19
+1860,Nebraska Territory,Richardson,2835
+1860,Nebraska Territory,Saline,39
+1860,Nebraska Territory,Sarpy,1201
+1860,Nebraska Territory,Shorter,117
+1860,Nebraska Territory,Unorganized Territory,2118
+1860,Nebraska Territory,Washington,1249
+1860,New Hampshire,Belknap,18549
+1860,New Hampshire,Carroll,20465
+1860,New Hampshire,Cheshire,27434
+1860,New Hampshire,Coos,13161
+1860,New Hampshire,Grafton,42260
+1860,New Hampshire,Hillsborough,62140
+1860,New Hampshire,Merrimack,41408
+1860,New Hampshire,Rockingham,50122
+1860,New Hampshire,Strafford,31493
+1860,New Hampshire,Sullivan,19041
+1860,New Jersey,Atlantic,11786
+1860,New Jersey,Bergen,21618
+1860,New Jersey,Burlington,49730
+1860,New Jersey,Camden,34457
+1860,New Jersey,Cape May,7130
+1860,New Jersey,Cumberland,22605
+1860,New Jersey,Essex,98877
+1860,New Jersey,Gloucester,18444
+1860,New Jersey,Hudson,62717
+1860,New Jersey,Hunterdon,33654
+1860,New Jersey,Mercer,37419
+1860,New Jersey,Middlesex,34812
+1860,New Jersey,Monmouth,39346
+1860,New Jersey,Morris,34677
+1860,New Jersey,Ocean,11176
+1860,New Jersey,Passaic,29013
+1860,New Jersey,Salem,22458
+1860,New Jersey,Somerset,22057
+1860,New Jersey,Sussex,23846
+1860,New Jersey,Union,27780
+1860,New Jersey,Warren,28433
+1860,New Mexico Territory,Arizona,6482
+1860,New Mexico Territory,Bernalillo,8769
+1860,New Mexico Territory,Dona Ana,6239
+1860,New Mexico Territory,Mora,5566
+1860,New Mexico Territory,Rio Arriba,9849
+1860,New Mexico Territory,San Miguel,13714
+1860,New Mexico Territory,Santa Anna,3572
+1860,New Mexico Territory,Santa Fe,8114
+1860,New Mexico Territory,Socorro,5787
+1860,New Mexico Territory,Taos,14103
+1860,New Mexico Territory,Valencia,11321
+1860,New York,Albany,113917
+1860,New York,Allegany,41881
+1860,New York,Broome,35906
+1860,New York,Cattaraugus,43886
+1860,New York,Cayuga,55767
+1860,New York,Chautauqua,58422
+1860,New York,Chemung,26917
+1860,New York,Chenango,40934
+1860,New York,Clinton,45735
+1860,New York,Columbia,47172
+1860,New York,Cortland,26294
+1860,New York,Delaware,42465
+1860,New York,Dutchess,64941
+1860,New York,Erie,141971
+1860,New York,Essex,28214
+1860,New York,Franklin,30837
+1860,New York,Fulton,24162
+1860,New York,Genesee,32189
+1860,New York,Greene,31930
+1860,New York,Hamilton,3024
+1860,New York,Herkimer,40561
+1860,New York,Jefferson,69825
+1860,New York,Kings,279122
+1860,New York,Lewis,28580
+1860,New York,Livingston,39546
+1860,New York,Madison,43545
+1860,New York,Monroe,100648
+1860,New York,Montgomery,30866
+1860,New York,New York,813669
+1860,New York,Niagara,50399
+1860,New York,Oneida,105202
+1860,New York,Onondaga,90686
+1860,New York,Ontario,44563
+1860,New York,Orange,63812
+1860,New York,Orleans,28717
+1860,New York,Oswego,75958
+1860,New York,Otsego,50157
+1860,New York,Putnam,14002
+1860,New York,Queens,57391
+1860,New York,Rensselaer,86328
+1860,New York,Richmond,25492
+1860,New York,Rockland,22492
+1860,New York,St Lawrence,83689
+1860,New York,Saratoga,51729
+1860,New York,Schenectady,20002
+1860,New York,Schoharie,34469
+1860,New York,Schuyler,18840
+1860,New York,Seneca,28138
+1860,New York,Steuben,66690
+1860,New York,Suffolk,43275
+1860,New York,Sullivan,32385
+1860,New York,Tioga,28748
+1860,New York,Tompkins,31409
+1860,New York,Ulster,76381
+1860,New York,Warren,21434
+1860,New York,Washington,45904
+1860,New York,Wayne,47762
+1860,New York,Westchester,99497
+1860,New York,Wyoming,31968
+1860,New York,Yates,20290
+1860,North Carolina,Alamance,11852
+1860,North Carolina,Alexander,6022
+1860,North Carolina,Alleghany,3590
+1860,North Carolina,Anson,13664
+1860,North Carolina,Ashe,7956
+1860,North Carolina,Beaufort,14766
+1860,North Carolina,Bertie,14310
+1860,North Carolina,Bladen,11995
+1860,North Carolina,Brunswick,8406
+1860,North Carolina,Buncombe,12654
+1860,North Carolina,Burke,9237
+1860,North Carolina,Cabarrus,10546
+1860,North Carolina,Caldwell,7497
+1860,North Carolina,Camden,5343
+1860,North Carolina,Carteret,8186
+1860,North Carolina,Caswell,16215
+1860,North Carolina,Catawba,10729
+1860,North Carolina,Chatham,19101
+1860,North Carolina,Cherokee,9166
+1860,North Carolina,Chowan,6842
+1860,North Carolina,Cleveland,12348
+1860,North Carolina,Columbus,8597
+1860,North Carolina,Craven,16268
+1860,North Carolina,Cumberland,16369
+1860,North Carolina,Currituck,7415
+1860,North Carolina,Davidson,16601
+1860,North Carolina,Davie,8494
+1860,North Carolina,Duplin,15784
+1860,North Carolina,Edgecombe,17376
+1860,North Carolina,Forsyth,12692
+1860,North Carolina,Franklin,14107
+1860,North Carolina,Gaston,9307
+1860,North Carolina,Gates,8443
+1860,North Carolina,Granville,23396
+1860,North Carolina,Greene,7925
+1860,North Carolina,Guilford,20056
+1860,North Carolina,Halifax,19442
+1860,North Carolina,Harnett,8039
+1860,North Carolina,Haywood,5801
+1860,North Carolina,Henderson,10448
+1860,North Carolina,Hertford,9504
+1860,North Carolina,Hyde,7732
+1860,North Carolina,Iredell,15347
+1860,North Carolina,Jackson,5515
+1860,North Carolina,Johnston,15656
+1860,North Carolina,Jones,5730
+1860,North Carolina,Lenoir,10220
+1860,North Carolina,Lincoln,8195
+1860,North Carolina,McDowell,7120
+1860,North Carolina,Macon,6004
+1860,North Carolina,Madison,5908
+1860,North Carolina,Martin,10195
+1860,North Carolina,Mecklenburg,17374
+1860,North Carolina,Montgomery,7649
+1860,North Carolina,Moore,11427
+1860,North Carolina,Nash,11687
+1860,North Carolina,New Hanover,21715
+1860,North Carolina,Northampton,13372
+1860,North Carolina,Onslow,8856
+1860,North Carolina,Orange,16947
+1860,North Carolina,Pasquotank,8940
+1860,North Carolina,Perquimans,7238
+1860,North Carolina,Person,11221
+1860,North Carolina,Pitt,16080
+1860,North Carolina,Polk,4043
+1860,North Carolina,Randolph,16793
+1860,North Carolina,Richmond,11009
+1860,North Carolina,Robeson,15489
+1860,North Carolina,Rockingham,16746
+1860,North Carolina,Rowan,14589
+1860,North Carolina,Rutherford,11573
+1860,North Carolina,Sampson,16624
+1860,North Carolina,Stanly,7801
+1860,North Carolina,Stokes,10402
+1860,North Carolina,Surry,10380
+1860,North Carolina,Tyrrell,4944
+1860,North Carolina,Union,11202
+1860,North Carolina,Wake,28627
+1860,North Carolina,Warren,15726
+1860,North Carolina,Washington,6357
+1860,North Carolina,Watauga,4957
+1860,North Carolina,Wayne,14905
+1860,North Carolina,Wilkes,14749
+1860,North Carolina,Wilson,9720
+1860,North Carolina,Yadkin,10714
+1860,North Carolina,Yancey,8655
+1860,Ohio,Adams,20309
+1860,Ohio,Allen,19185
+1860,Ohio,Ashland,22951
+1860,Ohio,Ashtabula,31814
+1860,Ohio,Athens,21364
+1860,Ohio,Auglaize,17187
+1860,Ohio,Belmont,36398
+1860,Ohio,Brown,29958
+1860,Ohio,Butler,35840
+1860,Ohio,Carroll,15738
+1860,Ohio,Champaign,22698
+1860,Ohio,Clark,25300
+1860,Ohio,Clermont,33034
+1860,Ohio,Clinton,21461
+1860,Ohio,Columbiana,32836
+1860,Ohio,Coshocton,25032
+1860,Ohio,Crawford,23881
+1860,Ohio,Cuyahoga,78033
+1860,Ohio,Darke,26009
+1860,Ohio,Defiance,11886
+1860,Ohio,Delaware,23902
+1860,Ohio,Erie,24474
+1860,Ohio,Fairfield,30538
+1860,Ohio,Fayette,15935
+1860,Ohio,Franklin,50361
+1860,Ohio,Fulton,14043
+1860,Ohio,Gallia,22043
+1860,Ohio,Geauga,15817
+1860,Ohio,Greene,26197
+1860,Ohio,Guernsey,24474
+1860,Ohio,Hamilton,216410
+1860,Ohio,Hancock,22886
+1860,Ohio,Hardin,13570
+1860,Ohio,Harrison,19110
+1860,Ohio,Henry,8901
+1860,Ohio,Highland,27773
+1860,Ohio,Hocking,17057
+1860,Ohio,Holmes,20589
+1860,Ohio,Huron,29616
+1860,Ohio,Jackson,17941
+1860,Ohio,Jefferson,26115
+1860,Ohio,Knox,27735
+1860,Ohio,Lake,15576
+1860,Ohio,Lawrence,23249
+1860,Ohio,Licking,37011
+1860,Ohio,Logan,20996
+1860,Ohio,Lorain,29744
+1860,Ohio,Lucas,25831
+1860,Ohio,Madison,13015
+1860,Ohio,Mahoning,25894
+1860,Ohio,Marion,15490
+1860,Ohio,Medina,22517
+1860,Ohio,Meigs,26534
+1860,Ohio,Mercer,14104
+1860,Ohio,Miami,29959
+1860,Ohio,Monroe,25741
+1860,Ohio,Montgomery,52230
+1860,Ohio,Morgan,22119
+1860,Ohio,Morrow,20445
+1860,Ohio,Muskingum,44416
+1860,Ohio,Noble,20751
+1860,Ohio,Ottawa,7016
+1860,Ohio,Paulding,4945
+1860,Ohio,Perry,19678
+1860,Ohio,Pickaway,23469
+1860,Ohio,Pike,13643
+1860,Ohio,Portage,24208
+1860,Ohio,Preble,21820
+1860,Ohio,Putnam,12808
+1860,Ohio,Richland,31158
+1860,Ohio,Ross,35071
+1860,Ohio,Sandusky,21429
+1860,Ohio,Scioto,24297
+1860,Ohio,Seneca,30868
+1860,Ohio,Shelby,17493
+1860,Ohio,Stark,42978
+1860,Ohio,Summit,27344
+1860,Ohio,Trumbull,30656
+1860,Ohio,Tuscarawas,32463
+1860,Ohio,Union,16507
+1860,Ohio,Van Wert,10238
+1860,Ohio,Vinton,13631
+1860,Ohio,Warren,26902
+1860,Ohio,Washington,36268
+1860,Ohio,Wayne,32483
+1860,Ohio,Williams,16633
+1860,Ohio,Wood,17886
+1860,Ohio,Wyandot,15596
+1860,Oregon,Benton,3074
+1860,Oregon,Clackamas,3466
+1860,Oregon,Clatsop,498
+1860,Oregon,Columbia,532
+1860,Oregon,Coos,445
+1860,Oregon,Curry,393
+1860,Oregon,Douglas,3203
+1860,Oregon,Jackson,3736
+1860,Oregon,Josephine,1623
+1860,Oregon,Lane,4780
+1860,Oregon,Linn,6772
+1860,Oregon,Marion,7088
+1860,Oregon,Multnomah,4150
+1860,Oregon,Polk,3625
+1860,Oregon,Tillamook,95
+1860,Oregon,Umpqua,1250
+1860,Oregon,Wasco,1689
+1860,Oregon,Washington,2801
+1860,Oregon,Yamhill,3245
+1860,Pennsylvania,Adams,28006
+1860,Pennsylvania,Allegheny,178831
+1860,Pennsylvania,Armstrong,35797
+1860,Pennsylvania,Beaver,29140
+1860,Pennsylvania,Bedford,26736
+1860,Pennsylvania,Berks,93818
+1860,Pennsylvania,Blair,27829
+1860,Pennsylvania,Bradford,48734
+1860,Pennsylvania,Bucks,63578
+1860,Pennsylvania,Butler,35594
+1860,Pennsylvania,Cambria,29155
+1860,Pennsylvania,Carbon,21033
+1860,Pennsylvania,Centre,27000
+1860,Pennsylvania,Chester,74578
+1860,Pennsylvania,Clarion,24988
+1860,Pennsylvania,Clearfield,18759
+1860,Pennsylvania,Clinton,17723
+1860,Pennsylvania,Columbia,25065
+1860,Pennsylvania,Crawford,48755
+1860,Pennsylvania,Cumberland,40098
+1860,Pennsylvania,Dauphin,46756
+1860,Pennsylvania,Delaware,30597
+1860,Pennsylvania,Elk,5915
+1860,Pennsylvania,Erie,49432
+1860,Pennsylvania,Fayette,39909
+1860,Pennsylvania,Forest,898
+1860,Pennsylvania,Franklin,42126
+1860,Pennsylvania,Fulton,9131
+1860,Pennsylvania,Greene,24343
+1860,Pennsylvania,Huntingdon,28100
+1860,Pennsylvania,Indiana,33687
+1860,Pennsylvania,Jefferson,18270
+1860,Pennsylvania,Juniata,16986
+1860,Pennsylvania,Lancaster,116314
+1860,Pennsylvania,Lawrence,22999
+1860,Pennsylvania,Lebanon,31831
+1860,Pennsylvania,Lehigh,43753
+1860,Pennsylvania,Luzerne,90244
+1860,Pennsylvania,Lycoming,37399
+1860,Pennsylvania,McKean,8859
+1860,Pennsylvania,Mercer,36856
+1860,Pennsylvania,Mifflin,16340
+1860,Pennsylvania,Monroe,16758
+1860,Pennsylvania,Montgomery,70500
+1860,Pennsylvania,Montour,13053
+1860,Pennsylvania,Northampton,47904
+1860,Pennsylvania,Northumberland,28922
+1860,Pennsylvania,Perry,22793
+1860,Pennsylvania,Philadelphia,565529
+1860,Pennsylvania,Pike,7155
+1860,Pennsylvania,Potter,11470
+1860,Pennsylvania,Schuylkill,89510
+1860,Pennsylvania,Snyder,15035
+1860,Pennsylvania,Somerset,26778
+1860,Pennsylvania,Sullivan,5637
+1860,Pennsylvania,Susquehanna,36267
+1860,Pennsylvania,Tioga,31044
+1860,Pennsylvania,Union,14145
+1860,Pennsylvania,Venango,25043
+1860,Pennsylvania,Warren,19190
+1860,Pennsylvania,Washington,46805
+1860,Pennsylvania,Wayne,32239
+1860,Pennsylvania,Westmoreland,53736
+1860,Pennsylvania,Wyoming,12540
+1860,Pennsylvania,York,68200
+1860,Rhode Island,Bristol,8907
+1860,Rhode Island,Kent,17303
+1860,Rhode Island,Newport,21896
+1860,Rhode Island,Providence,107799
+1860,Rhode Island,Washington,18715
+1860,South Carolina,Abbeville,32385
+1860,South Carolina,Anderson,22873
+1860,South Carolina,Barnwell,30743
+1860,South Carolina,Beaufort,40053
+1860,South Carolina,Charleston,70100
+1860,South Carolina,Chester,18122
+1860,South Carolina,Chesterfield,11834
+1860,South Carolina,Clarendon,13095
+1860,South Carolina,Colleton,41916
+1860,South Carolina,Darlington,20361
+1860,South Carolina,Edgefield,39887
+1860,South Carolina,Fairfield,22111
+1860,South Carolina,Georgetown,21305
+1860,South Carolina,Greenville,21892
+1860,South Carolina,Horry,7962
+1860,South Carolina,Kershaw,13086
+1860,South Carolina,Lancaster,11797
+1860,South Carolina,Laurens,23858
+1860,South Carolina,Lexington,15579
+1860,South Carolina,Marion,21190
+1860,South Carolina,Marlboro,12434
+1860,South Carolina,Newberry,20879
+1860,South Carolina,Orangeburg,24896
+1860,South Carolina,Pickens,19639
+1860,South Carolina,Richland,18307
+1860,South Carolina,Spartanburg,26919
+1860,South Carolina,Sumter,23859
+1860,South Carolina,Union,19635
+1860,South Carolina,Williamsburg,15489
+1860,South Carolina,York,21502
+1860,Tennessee,Anderson,7068
+1860,Tennessee,Bedford,21584
+1860,Tennessee,Benton,8463
+1860,Tennessee,Bledsoe,4459
+1860,Tennessee,Blount,13270
+1860,Tennessee,Bradley,11701
+1860,Tennessee,Campbell,6712
+1860,Tennessee,Cannon,9509
+1860,Tennessee,Carroll,17437
+1860,Tennessee,Carter,7124
+1860,Tennessee,Cheatham,7258
+1860,Tennessee,Claiborne,9643
+1860,Tennessee,Cocke,10408
+1860,Tennessee,Coffee,9689
+1860,Tennessee,Cumberland,3460
+1860,Tennessee,Davidson,47055
+1860,Tennessee,Decatur,6276
+1860,Tennessee,DeKalb,10573
+1860,Tennessee,Dickson,9982
+1860,Tennessee,Dyer,10536
+1860,Tennessee,Fayette,24327
+1860,Tennessee,Fentress,5054
+1860,Tennessee,Franklin,13848
+1860,Tennessee,Gibson,21777
+1860,Tennessee,Giles,26166
+1860,Tennessee,Grainger,10962
+1860,Tennessee,Greene,19004
+1860,Tennessee,Grundy,3093
+1860,Tennessee,Hamilton,13258
+1860,Tennessee,Hancock,7020
+1860,Tennessee,Hardeman,17769
+1860,Tennessee,Hardin,11214
+1860,Tennessee,Hawkins,16162
+1860,Tennessee,Haywood,19232
+1860,Tennessee,Henderson,14491
+1860,Tennessee,Henry,19133
+1860,Tennessee,Hickman,9312
+1860,Tennessee,Humphreys,9096
+1860,Tennessee,Jackson,11725
+1860,Tennessee,Jefferson,16043
+1860,Tennessee,Johnson,5018
+1860,Tennessee,Knox,22813
+1860,Tennessee,Lauderdale,7559
+1860,Tennessee,Lawrence,9320
+1860,Tennessee,Lewis,2241
+1860,Tennessee,Lincoln,22828
+1860,Tennessee,McMinn,13555
+1860,Tennessee,McNairy,14732
+1860,Tennessee,Macon,7290
+1860,Tennessee,Madison,21535
+1860,Tennessee,Marion,6190
+1860,Tennessee,Marshall,14592
+1860,Tennessee,Maury,32498
+1860,Tennessee,Meigs,4667
+1860,Tennessee,Monroe,12607
+1860,Tennessee,Montgomery,20895
+1860,Tennessee,Morgan,3353
+1860,Tennessee,Obion,12817
+1860,Tennessee,Overton,12637
+1860,Tennessee,Perry,6042
+1860,Tennessee,Polk,8726
+1860,Tennessee,Putnam,8558
+1860,Tennessee,Rhea,4991
+1860,Tennessee,Roane,13583
+1860,Tennessee,Robertson,15265
+1860,Tennessee,Rutherford,27918
+1860,Tennessee,Scott,3519
+1860,Tennessee,Sequatchie,2120
+1860,Tennessee,Sevier,9122
+1860,Tennessee,Shelby,48092
+1860,Tennessee,Smith,16357
+1860,Tennessee,Stewart,9896
+1860,Tennessee,Sullivan,13552
+1860,Tennessee,Sumner,22030
+1860,Tennessee,Tipton,10705
+1860,Tennessee,Union,6117
+1860,Tennessee,Van Buren,2581
+1860,Tennessee,Warren,11147
+1860,Tennessee,Washington,14829
+1860,Tennessee,Wayne,9115
+1860,Tennessee,Weakley,18216
+1860,Tennessee,White,9381
+1860,Tennessee,Williamson,23827
+1860,Tennessee,Wilson,26072
+1860,Texas,Anderson,10398
+1860,Texas,Angelina,4271
+1860,Texas,Atascosa,1578
+1860,Texas,Austin,10139
+1860,Texas,Bandera,399
+1860,Texas,Bastrop,7006
+1860,Texas,Baylor,
+1860,Texas,Bee,910
+1860,Texas,Bell,4799
+1860,Texas,Bexar,14454
+1860,Texas,Blanco,1281
+1860,Texas,Bosque,2005
+1860,Texas,Bowie,5052
+1860,Texas,Brazoria,6823
+1860,Texas,Brazos,3096
+1860,Texas,Brown,244
+1860,Texas,Buchanan,230
+1860,Texas,Burleson,5683
+1860,Texas,Burnet,2487
+1860,Texas,Caldwell,4481
+1860,Texas,Calhoun,2642
+1860,Texas,Callahan,
+1860,Texas,Cameron,6028
+1860,Texas,Cass (old),8411
+1860,Texas,Chambers,1508
+1860,Texas,Cherokee,12098
+1860,Texas,Clay,109
+1860,Texas,Coleman,
+1860,Texas,Collin,9264
+1860,Texas,Colorado,7885
+1860,Texas,Comal,4030
+1860,Texas,Comanche,709
+1860,Texas,Concho,
+1860,Texas,Cooke,3760
+1860,Texas,Coryell,2666
+1860,Texas,Dallas,8665
+1860,Texas,Dawson,281
+1860,Texas,Denton,5031
+1860,Texas,DeWitt,5108
+1860,Texas,Dimmit,
+1860,Texas,Duval,
+1860,Texas,Eastland,99
+1860,Texas,Edwards,
+1860,Texas,Ellis,5246
+1860,Texas,El Paso,4051
+1860,Texas,Encinal,43
+1860,Texas,Erath,2425
+1860,Texas,Falls,3614
+1860,Texas,Fannin,9217
+1860,Texas,Fayette,11604
+1860,Texas,Fort Bend,6143
+1860,Texas,Freestone,6881
+1860,Texas,Frio,42
+1860,Texas,Galveston,8229
+1860,Texas,Gillespie,2736
+1860,Texas,Goliad,3384
+1860,Texas,Gonzales,8059
+1860,Texas,Grayson,8184
+1860,Texas,Grimes,10307
+1860,Texas,Guadalupe,5444
+1860,Texas,Hamilton,489
+1860,Texas,Hardeman,
+1860,Texas,Hardin,1353
+1860,Texas,Harris,9070
+1860,Texas,Harrison,15001
+1860,Texas,Haskell,
+1860,Texas,Hays,2126
+1860,Texas,Henderson,4595
+1860,Texas,Hidalgo,1192
+1860,Texas,Hill,3653
+1860,Texas,Hopkins,7745
+1860,Texas,Houston,8058
+1860,Texas,Hunt,6630
+1860,Texas,Jack,1000
+1860,Texas,Jackson,2612
+1860,Texas,Jasper,4037
+1860,Texas,Jefferson,1995
+1860,Texas,Johnson,4305
+1860,Texas,Jones,
+1860,Texas,Karnes,2171
+1860,Texas,Kaufman,3936
+1860,Texas,Kerr,634
+1860,Texas,Kimble,
+1860,Texas,Kinney,61
+1860,Texas,Knox,
+1860,Texas,Lamar,10136
+1860,Texas,Lampasas,1028
+1860,Texas,La Salle,
+1860,Texas,Lavaca,5945
+1860,Texas,Leon,6781
+1860,Texas,Liberty,3189
+1860,Texas,Limestone,4537
+1860,Texas,Live Oak,593
+1860,Texas,Llano,1101
+1860,Texas,McCulloch,
+1860,Texas,McLennan,6206
+1860,Texas,McMullen,
+1860,Texas,Madison,2238
+1860,Texas,Marion,3977
+1860,Texas,Mason,630
+1860,Texas,Matagorda,3454
+1860,Texas,Maverick,726
+1860,Texas,Medina,1838
+1860,Texas,Menora,
+1860,Texas,Milam,5175
+1860,Texas,Montague,849
+1860,Texas,Montgomery,5479
+1860,Texas,Nacogdoches,8292
+1860,Texas,Navarro,5996
+1860,Texas,Newton,3119
+1860,Texas,Nueces,2906
+1860,Texas,Orange,1916
+1860,Texas,Palo Pinto,1524
+1860,Texas,Panola,8475
+1860,Texas,Parker,4213
+1860,Texas,Polk,8300
+1860,Texas,Presidio,580
+1860,Texas,Red River,8535
+1860,Texas,Refugio,1600
+1860,Texas,Robertson,4997
+1860,Texas,Runnels,
+1860,Texas,Rusk,15803
+1860,Texas,Sabine,2750
+1860,Texas,San Augustine,4094
+1860,Texas,San Patricio,620
+1860,Texas,San Saba,913
+1860,Texas,Shackelford,44
+1860,Texas,Shelby,5362
+1860,Texas,Smith,13392
+1860,Texas,Starr,2406
+1860,Texas,Tarrant,6020
+1860,Texas,Taylor,
+1860,Texas,Throckmorton,124
+1860,Texas,Titus,9648
+1860,Texas,Travis,8080
+1860,Texas,Trinity,4392
+1860,Texas,Tyler,4525
+1860,Texas,Upshur,10645
+1860,Texas,Uvalde,506
+1860,Texas,Van Zandt,3777
+1860,Texas,Victoria,4171
+1860,Texas,Walker,8191
+1860,Texas,Washington,15215
+1860,Texas,Webb,1397
+1860,Texas,Wharton,3380
+1860,Texas,Williamson,4529
+1860,Texas,Wise,3160
+1860,Texas,Wood,4968
+1860,Texas,Young,592
+1860,Texas,Zapata,1248
+1860,Texas,Zavala,26
+1860,Utah Territory,Beaver,785
+1860,Utah Territory,Box Elder,1608
+1860,Utah Territory,Cache,2605
+1860,Utah Territory,Carson,6712
+1860,Utah Territory,Cedar,741
+1860,Utah Territory,Davis,2904
+1860,Utah Territory,Deseret,
+1860,Utah Territory,Greasewood,
+1860,Utah Territory,Green River,141
+1860,Utah Territory,Humboldt,40
+1860,Utah Territory,Iron,1010
+1860,Utah Territory,Juab,672
+1860,Utah Territory,Millard,715
+1860,Utah Territory,Salt Lake,11295
+1860,Utah Territory,Sanpete,3815
+1860,Utah Territory,Shambip,162
+1860,Utah Territory,Summit,198
+1860,Utah Territory,St Marys,105
+1860,Utah Territory,Tooele,1008
+1860,Utah Territory,Unincorporated Territory,
+1860,Utah Territory,Utah,8248
+1860,Utah Territory,Walade,
+1860,Utah Territory,Washington,691
+1860,Utah Territory,Weber,3675
+1860,Vermont,Addison,24010
+1860,Vermont,Bennington,19436
+1860,Vermont,Caledonia,21708
+1860,Vermont,Chittenden,28171
+1860,Vermont,Essex,5786
+1860,Vermont,Franklin,27231
+1860,Vermont,Grand Isle,4276
+1860,Vermont,Lamoille,12311
+1860,Vermont,Orange,25455
+1860,Vermont,Orleans,18981
+1860,Vermont,Rutland,35946
+1860,Vermont,Washington,27612
+1860,Vermont,Windham,26982
+1860,Vermont,Windsor,37193
+1860,Virginia,Accomack,18586
+1860,Virginia,Albemarle,26625
+1860,Virginia,Alexandria,12652
+1860,Virginia,Alleghany,6765
+1860,Virginia,Amelia,10741
+1860,Virginia,Amherst,13742
+1860,Virginia,Appomattox,8889
+1860,Virginia,Augusta,27749
+1860,Virginia,Barbour,8958
+1860,Virginia,Bath,3676
+1860,Virginia,Bedford,25068
+1860,Virginia,Berkeley,12525
+1860,Virginia,Boone,4840
+1860,Virginia,Botetourt,11516
+1860,Virginia,Braxton,4992
+1860,Virginia,Brooke,5494
+1860,Virginia,Brunswick,14809
+1860,Virginia,Buchanan,2793
+1860,Virginia,Buckingham,15212
+1860,Virginia,Cabell,8020
+1860,Virginia,Calhoun,2502
+1860,Virginia,Campbell,26197
+1860,Virginia,Caroline,18464
+1860,Virginia,Carroll,8012
+1860,Virginia,Charles City,5609
+1860,Virginia,Charlotte,14471
+1860,Virginia,Chesterfield,19016
+1860,Virginia,Clarke,7146
+1860,Virginia,Clay,1787
+1860,Virginia,Craig,3553
+1860,Virginia,Culpeper,12063
+1860,Virginia,Cumberland,9961
+1860,Virginia,Dinwiddie,30198
+1860,Virginia,Doddridge,5203
+1860,Virginia,Elizabeth City,5798
+1860,Virginia,Essex,10469
+1860,Virginia,Fairfax,11834
+1860,Virginia,Fauquier,21706
+1860,Virginia,Fayette,5997
+1860,Virginia,Floyd,8236
+1860,Virginia,Fluvanna,10353
+1860,Virginia,Franklin,20098
+1860,Virginia,Frederick,16546
+1860,Virginia,Giles,6883
+1860,Virginia,Gilmer,3759
+1860,Virginia,Gloucester,10956
+1860,Virginia,Goochland,10656
+1860,Virginia,Grayson,8252
+1860,Virginia,Greenbrier,12211
+1860,Virginia,Greene,5022
+1860,Virginia,Greensville,6374
+1860,Virginia,Halifax,26520
+1860,Virginia,Hampshire,13913
+1860,Virginia,Hancock,4445
+1860,Virginia,Hanover,17222
+1860,Virginia,Hardy,9864
+1860,Virginia,Harrison,13790
+1860,Virginia,Henrico,61616
+1860,Virginia,Henry,12105
+1860,Virginia,Highland,4319
+1860,Virginia,Isle Of Wight,9977
+1860,Virginia,Jackson,8306
+1860,Virginia,James City,5798
+1860,Virginia,Jefferson,14535
+1860,Virginia,Kanawha,16150
+1860,Virginia,King And Queen,10328
+1860,Virginia,King George,6571
+1860,Virginia,King William,8530
+1860,Virginia,Lancaster,5151
+1860,Virginia,Lee,11032
+1860,Virginia,Lewis,7999
+1860,Virginia,Logan,4938
+1860,Virginia,Loudoun,21774
+1860,Virginia,Louisa,16701
+1860,Virginia,Lunenburg,11983
+1860,Virginia,Madison,8854
+1860,Virginia,Marion,12722
+1860,Virginia,Marshall,12997
+1860,Virginia,Mason,9173
+1860,Virginia,Mathews,7091
+1860,Virginia,McDowell,1535
+1860,Virginia,Mecklenburg,20096
+1860,Virginia,Mercer,6819
+1860,Virginia,Middlesex,4364
+1860,Virginia,Monongalia,13048
+1860,Virginia,Monroe,10757
+1860,Virginia,Montgomery,10617
+1860,Virginia,Morgan,3732
+1860,Virginia,Nansemond,13693
+1860,Virginia,Nelson,13015
+1860,Virginia,New Kent,5884
+1860,Virginia,Nicholas,4627
+1860,Virginia,Norfolk,36227
+1860,Virginia,Northampton,7832
+1860,Virginia,Northumberland,7531
+1860,Virginia,Nottoway,8836
+1860,Virginia,Ohio,22422
+1860,Virginia,Orange,10851
+1860,Virginia,Page,8109
+1860,Virginia,Patrick,9359
+1860,Virginia,Pendleton,6164
+1860,Virginia,Pittsylvania,32104
+1860,Virginia,Pleasants,2945
+1860,Virginia,Pocahontas,3958
+1860,Virginia,Powhatan,8392
+1860,Virginia,Preston,13312
+1860,Virginia,Prince Edward,11844
+1860,Virginia,Prince George,8411
+1860,Virginia,Princess Anne,7714
+1860,Virginia,Prince William,8565
+1860,Virginia,Pulaski,5416
+1860,Virginia,Putnam,6301
+1860,Virginia,Raleigh,3367
+1860,Virginia,Randolph,4990
+1860,Virginia,Rappahannock,8850
+1860,Virginia,Richmond,6856
+1860,Virginia,Ritchie,6847
+1860,Virginia,Roane,5381
+1860,Virginia,Roanoke,8048
+1860,Virginia,Rockbridge,17248
+1860,Virginia,Rockingham,23408
+1860,Virginia,Russell,10280
+1860,Virginia,Scott,12072
+1860,Virginia,Shenandoah,13896
+1860,Virginia,Smyth,8952
+1860,Virginia,Southampton,12915
+1860,Virginia,Spotsylvania,16076
+1860,Virginia,Stafford,8555
+1860,Virginia,Surry,6133
+1860,Virginia,Sussex,10175
+1860,Virginia,Taylor,7463
+1860,Virginia,Tazewell,9920
+1860,Virginia,Tucker,1428
+1860,Virginia,Tyler,6517
+1860,Virginia,Upshur,7292
+1860,Virginia,Warren,6442
+1860,Virginia,Warwick,1740
+1860,Virginia,Washington,16892
+1860,Virginia,Wayne,6747
+1860,Virginia,Webster,1555
+1860,Virginia,Westmoreland,8282
+1860,Virginia,Wetzel,6703
+1860,Virginia,Wirt,3751
+1860,Virginia,Wise,4508
+1860,Virginia,Wood,11046
+1860,Virginia,Wyoming,2861
+1860,Virginia,Wythe,12305
+1860,Virginia,York,4949
+1860,Washington Territory,Chihallis,285
+1860,Washington Territory,Clallam,149
+1860,Washington Territory,Clark,2384
+1860,Washington Territory,Cowlitz,406
+1860,Washington Territory,Island,294
+1860,Washington Territory,Jefferson,531
+1860,Washington Territory,King,302
+1860,Washington Territory,Kitsap,544
+1860,Washington Territory,Klikatat,230
+1860,Washington Territory,Lewis,384
+1860,Washington Territory,Pacific,420
+1860,Washington Territory,Pierce,1115
+1860,Washington Territory,Skamania,173
+1860,Washington Territory,Sawamish,162
+1860,Washington Territory,Spokane,996
+1860,Washington Territory,Thurston,1507
+1860,Washington Territory,Wahkiakum,42
+1860,Washington Territory,Walla Walla,1318
+1860,Washington Territory,Whatcom,352
+1860,Wisconsin,Adams,6492
+1860,Wisconsin,Ashland,515
+1860,Wisconsin,Bad Ax,11007
+1860,Wisconsin,Brown,11795
+1860,Wisconsin,Buffalo,3864
+1860,Wisconsin,Burnett,12
+1860,Wisconsin,Calumet,7895
+1860,Wisconsin,Chippewa,1895
+1860,Wisconsin,Clark,789
+1860,Wisconsin,Columbia,24441
+1860,Wisconsin,Crawford,8068
+1860,Wisconsin,Dallas,13
+1860,Wisconsin,Dane,43922
+1860,Wisconsin,Dodge,42818
+1860,Wisconsin,Door,2948
+1860,Wisconsin,Douglas,812
+1860,Wisconsin,Dunn,2704
+1860,Wisconsin,Eau Claire,3162
+1860,Wisconsin,Fond du Lac,34154
+1860,Wisconsin,Grant,31189
+1860,Wisconsin,Green,19808
+1860,Wisconsin,Green Lake,12663
+1860,Wisconsin,Iowa,18967
+1860,Wisconsin,Jackson,4170
+1860,Wisconsin,Jefferson,30438
+1860,Wisconsin,Juneau,8770
+1860,Wisconsin,Kenosha,13900
+1860,Wisconsin,Kewaunee,5530
+1860,Wisconsin,La Crosse,12186
+1860,Wisconsin,Lafayette,18134
+1860,Wisconsin,La Point,353
+1860,Wisconsin,Manitowoc,22416
+1860,Wisconsin,Marathon,2892
+1860,Wisconsin,Marquette,8233
+1860,Wisconsin,Milwaukee,62518
+1860,Wisconsin,Monroe,8410
+1860,Wisconsin,Oconto,3592
+1860,Wisconsin,Outagamie,9587
+1860,Wisconsin,Ozaukee,15682
+1860,Wisconsin,Pepin,2392
+1860,Wisconsin,Pierce,4672
+1860,Wisconsin,Polk,1400
+1860,Wisconsin,Portage,7507
+1860,Wisconsin,Racine,21360
+1860,Wisconsin,Richland,9732
+1860,Wisconsin,Rock,36690
+1860,Wisconsin,St Croix,5392
+1860,Wisconsin,Sauk,18963
+1860,Wisconsin,Shawano,829
+1860,Wisconsin,Sheboygan,26875
+1860,Wisconsin,Trempealeau,2560
+1860,Wisconsin,Walworth,26496
+1860,Wisconsin,Washington,23622
+1860,Wisconsin,Waukesha,26831
+1860,Wisconsin,Waupaca,8851
+1860,Wisconsin,Waushara,8770
+1860,Wisconsin,Winnebago,23770
+1860,Wisconsin,Wood,2425
