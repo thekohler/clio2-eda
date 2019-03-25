@@ -1,4 +1,4 @@
-YEAR,STATE,COUNTY,total_white,total_free_colored,total_slave,total_indian,total_halfbreed,total_asiatic
+YEAR,STATE,COUNTY,total_white,total_free_black,total_slave,total_indian,total_halfbreed,total_asiatic
 1860,Alabama,Autauga,7105,14,9607,13,,
 1860,Alabama,Baldwin,3585,140,3714,91,,
 1860,Alabama,Barbour,14629,33,16150,0,,

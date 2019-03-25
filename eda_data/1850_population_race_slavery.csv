@@ -1,4 +1,4 @@
-YEAR,STATE,COUNTY,total_population,total_white,total_nonwhite_free,total_nonwhite_slave
+YEAR,STATE,COUNTY,total_population,total_white,total_free_black,total_slave
 1850,Alabama,Autauga,15023,6274,19,8730
 1850,Alabama,Baldwin,4414,2100,96,2218
 1850,Alabama,Barbour,23632,12842,10,10780
